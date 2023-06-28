@@ -1,0 +1,7350 @@
+body {
+  background-image: url(https://onecontentpro.com/ihealthis-final/wp-content/uploads/2023/06/body-bg.png);
+  background-size: cover;
+}
+.testi-box p {
+font-family: 'Poppins';
+    font-size: 14px;
+    text-align: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-image: url(https://onecontentpro.com/ihealthis-final/wp-content/uploads/2023/06/commas.png);
+}
+ul.follow-social-links li a {
+    color: #8080809e;
+}
+.page-id-1456 .heading-circle-box {
+	border: 0px dashed #437FEC!important;
+
+}
+.video {
+    width: 100%;
+    border-radius: 20px;
+
+}
+ul.sub-menu {
+    display: none;
+    position: absolute;
+    opacity: 0;
+    list-style: none;
+    border: 1px solid #00abdf;
+    padding: 0;
+    min-width: 210px;
+z-index:9!important;
+}
+.menu-item:hover .sub-menu {
+    display: block;
+    opacity: 1;
+}
+ul.sub-menu li {
+    padding: 0 0 0px 20px !important;
+    border-bottom: 1px solid;
+background: #fff;
+}
+.rss_link {
+    display: none;
+}
+.logo-box p {
+    font-size: 12px;
+    font-family: 'Poppins';
+    margin-bottom: 0px;
+}
+ul#primary-menu li a {color: #101F31;line-height: 40px;text-decoration: none;font-family: poppins;
+font-size:11px;
+}
+a.nav-btn {
+    margin-left: 25px;
+}
+ul#primary-menu li {
+    padding: 15px 14px;
+}
+.page-id-1734 .commit-dotted-line {
+    position: absolute;
+    top: -66px;
+    left: 198px;
+}
+.body-with-background {
+  background-image: url(https://onecontentpro.com/ihealthis-final/wp-content/uploads/2023/06/page-bg.svg)!important;
+  background-size: cover;
+  background-position: top center;
+}
+.page-template-cloud-informatics-php {
+  background-image: url(https://onecontentpro.com/ihealthis-final/wp-content/uploads/2023/06/page-bg.svg)!important;
+  background-size: cover;
+  background-position: top center;
+}
+.page-template-cyber-security-php {
+  background-image: url(https://onecontentpro.com/ihealthis-final/wp-content/uploads/2023/06/page-bg.svg)!important;
+  background-size: cover;
+  background-position: top center;
+}
+
+.page-template-zero-trust-php {
+  background-image: url(https://onecontentpro.com/ihealthis-final/wp-content/uploads/2023/06/page-bg.svg)!important;
+  background-size: cover;
+  background-position: top center;
+}
+
+.page-template-it-service-management-php {
+  background-image: url(https://onecontentpro.com/ihealthis-final/wp-content/uploads/2023/06/page-bg.svg)!important;
+  background-size: cover;
+  background-position: top center;
+}
+
+.page-template-ihealth-social-and-corporate-responsibility-php {
+  background-image: url(https://onecontentpro.com/ihealthis-final/wp-content/uploads/2023/06/page-bg.svg)!important;
+  background-size: cover;
+  background-position: top center;
+}
+
+.page-template-ihealth-devops-services-php {
+  background-image: url(https://onecontentpro.com/ihealthis-final/wp-content/uploads/2023/06/page-bg.svg)!important;
+  background-size: cover;
+  background-position: top center;
+}
+
+.page-template-ai-consulting-php {
+  background-image: url(https://onecontentpro.com/ihealthis-final/wp-content/uploads/2023/06/page-bg.svg)!important;
+  background-size: cover;
+  background-position: top center;
+}
+.page-template-procurement-vehicles-php {
+  background-image: url(https://onecontentpro.com/ihealthis-final/wp-content/uploads/2023/06/page-bg.svg)!important;
+  background-size: cover;
+  background-position: top center;
+}
+.page-template-career-template-php {
+  background-image: url(https://onecontentpro.com/ihealthis-final/wp-content/uploads/2023/06/page-bg.svg)!important;
+  background-size: cover;
+  background-position: top center;
+}
+
+
+
+.navbar.navbar-expand-lg {
+  padding: 24px 0 25px;
+}
+img {
+  max-width: 100%;
+}
+
+.nav-btn {
+  background-color: #00ABDF;
+  color: white;
+  text-decoration: none;
+  font-family: 'Poppins';
+  font-size: 12px;
+  padding: 12px;
+  border-radius: 20px;
+  display: block;
+  width: 16%;
+  text-align: center;
+  cursor: pointer;
+}
+
+.nav-item {
+  margin: 0 8px;
+}
+
+.nav-link {
+  font-family: 'Poppins';
+  font-size: .8vw;
+  cursor: pointer;
+}
+
+.phone {
+  margin-right: 6px;
+  width: 11px;
+}
+
+
+/*-- Banner Slider --*/
+
+.banner-section {
+  padding: 60px 0 10px;
+}
+
+.banner-title-box {
+  padding: 65px 0;
+}
+
+.banner-title {
+  color: #00ABDF;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 3em;
+  margin-bottom: 30px;
+}
+
+.banner-title span {
+  color: black;
+  font-weight: 400;
+
+}
+
+.banner-img {
+  width: 100%;
+}
+
+.banner-btn-1 {
+  background-color: #00ABDF;
+  padding: 10px;
+  width: 100%;
+  display: block;
+  text-align: center;
+  color: white!important;
+  text-decoration: none;
+  font-family: 'Poppins';
+  font-size: 13px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.banner-btn-2 {
+  font-family: 'Poppins';
+  padding: 10px;
+  color: black!important;
+  text-decoration: none;
+  font-size: 13px;
+  display: block;
+  border: 1px solid black;
+  border-radius: 20px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.carousel-indicators [data-bs-target] {
+  box-sizing: content-box;
+  flex: 0 1 auto;
+  width: 11px;
+  height: 11px;
+  padding: 0;
+  margin-right: 3px;
+  margin-left: 3px;
+  text-indent: -999px;
+  cursor: pointer;
+  background-color: #00ABDF;
+  background-clip: padding-box;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+  opacity: .5;
+  transition: opacity .6s ease;
+}
+
+.follow-text {
+  rotate: 90deg;
+  font-family: 'Poppins';
+  font-size: 14px;
+  margin-bottom: 40px;
+}
+
+.follow-box {
+  position: absolute;
+  top: 50%;
+  left: -60px;
+  transform: translateY(-50%);
+}
+
+.follow-social-links {
+  list-style-type: none;
+  margin: -7px;
+  color: #8080809e;
+  font-size: 13px;
+  line-height: 27px;
+  cursor: pointer;
+}
+.follow-social-links a
+{
+  color: #8080809e;
+}
+.follow-social-links li:hover {
+  color: #00ABDF;
+}
+
+.owl-4 .owl-nav {
+  display: none;
+}
+
+.owl-4>.owl-dots>.owl-dot {
+  zoom: 1;
+  display: block !important;
+}
+
+.owl-4 .owl-dots {
+  float: right;
+  margin-top: -280px;
+  margin-right: -64px;
+}
+
+.owl-dot.active {
+  background-color: #00ABDF;
+  border: 1px solid #00ABDF !important;
+  border-radius: 30px;
+
+}
+
+.owl-dot.active span,
+.owl-theme .owl-dots .owl-dot:hover span {
+  background: #00ABDF !important;
+
+}
+
+.owl-theme .owl-dots .owl-dot span {
+  width: 8px !important;
+  height: 8px !important;
+  margin: 6px 6px !important;
+  background: #D6D6D6;
+  display: block;
+  -webkit-backface-visibility: visible;
+  transition: opacity .2s ease;
+  padding: 0 !important;
+}
+
+/*-- End Banner Slider --*/
+
+
+/*-- Logo Section --*/
+.Logos.Section {
+  padding: 50px 0;
+}
+
+.logo-box {
+    text-align: center;
+    background-image: linear-gradient(to right, #00ABDF17, #00abdf08);
+    padding: 10px 28px;
+    min-height: 94px;
+    border-left: 2px solid #00ABDF;
+    margin: 0 -11px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.logo-desc {
+  font-size: 12px;
+  font-family: 'Poppins';
+}
+
+.logo-img {
+  width: 70px;
+}
+
+.hub-img.logo-img {
+  margin-left: -10px;
+}
+
+/*-- End Logo Section --*/
+
+
+/*-- Capabilities Section --*/
+
+.capabilities-sec {
+  padding: 50px 0;
+}
+
+.capabilities-desc-box {
+  text-align: center;
+}
+
+.capa-title {
+  color: #00ABDF;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 50px;
+}
+
+.capa-title span {
+  color: black;
+  font-weight: 400;
+
+}
+
+.capa-desc {
+  font-family: 'Poppins';
+  line-height: 24px;
+  font-size: 15px;
+  margin: 30px 0;
+}
+
+.capa-img {
+  width: 70px !important;
+}
+
+ .lock {
+    object-fit: scale-down;
+    width: 25% !important;
+    height: 50px;
+}
+
+
+.brain {
+  width: 50px !important;
+}
+
+.capa-box-title {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 17px;
+  margin: 20px 0;
+}
+
+.capa-box-desc {
+  font-family: 'Poppins';
+  font-size: 12px;
+}
+
+.capa-btn {
+  padding: 11px;
+  width: 100%;
+  display: block;
+  border-radius: 50px;
+  color: black!important;
+  font-family: 'Poppins';
+  text-transform: uppercase;
+  font-size: 12px;
+  padding: 12px 0;
+  text-decoration: none;
+  cursor: pointer;
+  transition: .5s;
+}
+
+.capa-btn:hover {
+  color: #00ABDF!important;
+}
+
+.capability-box {
+  border: 1px solid #80808059;
+  padding: 50px 23px;
+  margin: 40px 0;
+  height: 334px;
+  border-radius: 17px;
+  box-shadow: 0px 10px 31px rgba(0, 0, 0, 0.07);
+}
+
+.owl-1 .owl-nav {
+  margin-top: 10px;
+  display: none;
+}
+
+.counter-section {
+  padding: 70px 0 30px;
+}
+
+/*-- End Capability Section --*/
+
+
+/*-- Counter Section --*/
+.fw-bold {
+  font-weight: 700 !important;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 60px;
+}
+
+.row.counter-row {
+  width: 90%;
+  margin: 0 auto;
+  box-shadow: 3px 14px 51px rgba(0, 0, 0, 0.24);
+  padding: 50px;
+  border-radius: 20px;
+  border: 2px solid #00ABDF;
+}
+
+.counter-box.counter-1 {
+  border-right: 1px solid #80808066;
+}
+
+.lead {
+  font-size: 14px;
+  font-weight: 500;
+  font-family: 'Poppins';
+  margin-top: 11px;
+}
+
+/*-- End Counter Section --*/
+
+
+/*-- Why Section --*/
+.why-section {
+  padding: 90px 0;
+}
+
+.why-desc-box {
+  padding: 60px 0;
+}
+
+.why-img {
+  width: 580px;
+}
+
+.why-btn {
+  background-color: #00ABDF;
+  padding: 11px;
+  width: 191px;
+  display: block;
+  border-radius: 50px;
+  color: white!important;
+  font-family: 'Poppins';
+  text-transform: uppercase;
+  font-size: 12px;
+  padding: 12px 28px;
+  text-decoration: none;
+  cursor: pointer;
+  transition: .5s;
+}
+
+.why-btn:hover {
+  background-color: rgb(35, 30, 30);
+}
+
+.arrow {
+  float: right;
+}
+
+.why-title {
+  color: #00ABDF;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 3vw;
+}
+
+.why-title span {
+  color: black;
+  font-weight: 400;
+
+}
+
+.why-desc {
+  font-family: 'Poppins';
+  line-height: 24px;
+  font-size: 15px;
+  margin: 22px 0;
+  padding-right: 40px;
+}
+
+.why-img-container {
+  position: relative;
+  width: 100%;
+  height: 583px;
+  margin-top: 150px;
+  background: rgba(0, 0, 0, 0);
+  transform: rotate(9deg) skew(7deg) scale(0.8);
+  transition: 0.5s;
+  margin: 0 auto 0 -52px;
+}
+
+.why-img-container img {
+  position: absolute;
+  width: 100%;
+  transition: 0.5s;
+}
+
+.why-img-container:hover img:nth-child(4) {
+  transform: translate(160px, -160px);
+  opacity: 1;
+}
+
+.why-img-container:hover img:nth-child(3) {
+  transform: translate(120px, -120px);
+  opacity: 0.8;
+}
+
+.why-img-container:hover img:nth-child(2) {
+  transform: translate(80px, -80px);
+  opacity: 0.6;
+}
+
+.why-img-container:hover img:nth-child(1) {
+  transform: translate(40px, -40px);
+  opacity: 0.4;
+}
+
+/*-- End Why Section --*/
+
+
+/*-- Video Section --*/
+.video-section {
+  margin-top: -120px;
+}
+
+
+.video {
+  width: 100%;
+  border-radius: 20px;
+}
+
+.video-title-box {
+  text-align: center;
+}
+
+.video-title {
+  color: #00ABDF;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 3vw;
+}
+
+.video-title span {
+  color: black;
+  font-weight: 400;
+
+}
+
+.video-desc {
+  font-family: 'Poppins';
+  line-height: 24px;
+  font-size: 15px;
+  margin: 30px 0;
+}
+
+/*--- End Video Section --*/
+
+
+
+/*-- Testimonial-Section --*/
+.testimonial-section {
+  background-image: url(https://onecontentpro.com/ihealthis-final/wp-content/uploads/2023/06/testimonial-bg-2.png);
+  background-size: cover;
+  margin-top: 112px;
+  padding: 322px 0 128px;
+  background-position: center;
+}
+
+.testi-title {
+  color: #00ABDF;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 3vw;
+  text-align: center;
+}
+
+.testi-title span {
+  color: black;
+  font-weight: 400;
+
+}
+
+.owl-2 {
+  max-width: 660px;
+  margin: 0 auto;
+}
+
+.testi-title-box {
+  margin: -210px 0 50px;
+  text-align: center;
+}
+
+.testi-box {
+  margin: 0 auto;
+  background-color: white;
+  padding: 70px;
+  border-radius: 15px;
+  box-shadow: 0px 18px 52.8537px rgba(215, 228, 249, 0.3);
+text-align:center;
+}
+
+.testi-review {
+  font-family: 'Poppins';
+  font-size: 14px;
+  text-align: center;
+  background-image: url(https://onecontentpro.com/ihealthis-final/wp-content/uploads/2023/06/commas.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+
+.owl-2 .owl-dots {
+  display: none;
+}
+
+.owl-next {
+  font-size: 50px !important;
+}
+.video-box video {
+    border-radius: 30px;
+	max-width: 100%;
+}
+.owl-prev {
+  font-size: 50px !important;
+}
+
+.owl-2 .owl-nav {
+  margin-top: 30px !important;
+  text-align: right !important;
+}
+
+.owl-2 .owl-item.active {
+  opacity: 1;
+}
+
+.owl-2 .owl-item {
+  opacity: 0;
+}
+
+.owl-2 .owl-stage-outer {
+  overflow: visible !important;
+}
+
+.owl-2 .owl-stage-outer:After {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: #fff;
+  left: 0;
+  border-radius: 20px;
+  top: 33px;
+  transform: scale(.9);
+  z-index: -1;
+}
+
+.owl-2 .owl-nav button {
+  font-size: 0 !important;
+  width: 30px;
+  height: 30px;
+  background: url(https://onecontentpro.com/ihealthis-final/wp-content/uploads/2023/06/arrow-carousel.svg) !important;
+  background-size: contain !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+}
+
+
+.owl-2 .owl-prev {
+  transform: scale(.8) rotate(180deg);
+  opacity: .6;
+}
+
+/*-- End Testimonial Section --*/
+
+
+/*-- News Section --*/
+.news-section {
+  padding: 75px 0 0;
+}
+
+.news-title {
+  color: #00ABDF;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 3vw;
+}
+
+.news-title span {
+  color: black;
+  font-weight: 400;
+
+}
+
+.news-desc {
+  font-family: 'Poppins';
+  line-height: 24px;
+  font-size: 13px;
+  margin: 22px 0;
+  padding-right: 40px;
+}
+
+
+.news-btn {
+  background-color: #00ABDF;
+  padding: 11px;
+  width: 191px;
+  display: block;
+  border-radius: 50px;
+  color: white;
+  font-family: 'Poppins';
+  text-transform: uppercase;
+  font-size: 12px;
+  padding: 12px 28px;
+  text-decoration: none;
+  cursor: pointer;
+  transition: .5s;
+  text-transform: capitalize;
+}
+
+.news-btn:hover {
+  background-color: rgb(35, 30, 30);
+}
+
+.img-number {
+  margin-bottom: 12px;
+  -webkit-text-stroke: 1px #00ABDF;
+  color: #fff;
+  font-size: 63px;
+  margin: 0;
+  font-family: 'Poppins';
+  font-weight: bolder;
+  line-height: 1;
+}
+
+.news-box-first {
+  padding: 50px 0;
+  margin: 0 5px;
+  transition: .5s;
+}
+
+.news-box {
+  border: 2px solid #8080803d;
+  padding: 30px;
+  min-height: 320px;
+  border-radius: 15px;
+  margin: 0 5px;
+  transition: .5s;
+}
+
+.news-box:hover {
+  border: 2px solid #00ABDF;
+}
+
+.news-box-btn {
+  text-decoration: none;
+  color: black;
+  font-family: 'Poppins';
+  font-size: 12px;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: .5s;
+}
+
+.news-box-btn:hover {
+  color: #00ABDF;
+}
+
+.owl-3 .owl-nav {
+  display: none;
+}
+
+.owl-3 .owl-dots {
+  display: none;
+}
+
+/*-- End News Section --*/
+
+
+
+/*-- Footer --*/
+
+.ft-section {
+  padding: 90px 0 0px;
+  background-image: url(https://onecontentpro.com/ihealthis-final/wp-content/uploads/2023/06/footer-bg.png);
+  background-size: cover;
+  background-position: center;
+}
+
+.ft-list {
+  padding: 0;
+}
+
+.contact-list {
+  list-style-type: none;
+  padding: 0;
+  font-size: 12px;
+  line-height: 35px;
+  font-family: 'Poppins';
+}
+
+.ft-list {
+  font-size: 11px;
+  line-height: 30px;
+  font-family: 'Poppins';
+}
+
+.ft-box-head {
+  font-family: 'Poppins';
+  color: #00ABDF;
+  font-weight: 600;
+  margin-bottom: 30px;
+}
+
+.ft-list-icon {
+  margin-right: 10px;
+}
+
+.ft-link-box {
+  padding: 10px 20px;
+  border-right: 1px solid #00ABDF;
+  height: 240px;
+}
+
+.ft-box-last {
+  padding: 10px;
+}
+
+.form-arrow {
+  float: right;
+}
+
+.btn-submit {
+  background-color: #00ABDF;
+  width: 100%;
+  color: white;
+  font-family: 'Poppins';
+  font-size: 14px;
+  border-radius: 20px;
+  padding: 7px 20px;
+  border: none;
+  transition: .5s;
+  width: 240px;
+}
+
+.btn-submit:hover {
+  background-color: black;
+}
+
+.ft-logo-box {
+  border-right: 1px solid #00ABDF;
+  height: 240px;
+}
+
+#exampleFormControlInput1 {
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid;
+  margin-bottom: 12px;
+  width: 240px;
+  border-radius: 0;
+}
+
+.ft-logo {
+  margin-bottom: 30px;
+}
+
+.ft-logo-desc {
+  font-family: 'Poppins';
+  font-size: 13px;
+}
+
+.ft-social-links {
+  list-style-type: none;
+  padding: 0;
+ margin:0;
+}
+.ft-social-links a{
+  color:#212529 !important;
+}
+.ft-social-links li {
+  display: inline-block;
+  margin-left: 15px;
+  cursor: pointer;
+}
+
+.copyright-row {
+  border-top: 1px solid #00ABDF;
+  margin-top: 30px;
+  padding: 20px 95px;
+  padding: 20px 95px 5px;
+}
+
+.copyright-text {
+  font-family: 'Poppins';
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.policy-text {
+  float: right;
+  font-family: 'Poppins';
+  font-size: 13px;
+  cursor: pointer;
+}
+
+
+/*--//cursor animations css //--*/
+/*Variables*/
+:root {
+  --black-color: #17181c;
+  --blue-color: #3e50b4;
+  --white-rbg-color: 255, 255, 255;
+  --green-rbg-color: 0, 212, 113;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+.cursor {
+  width: 20px;
+  height: 20px;
+  border: 5px solid #53cbf0;
+  border-radius: 50%;
+  position: absolute;
+  margin-bottom: -20px;
+  transition-duration: 200ms;
+  transition-timing-function: ease-out;
+  animation: cursor-animate 550ms infinite alternate;
+}
+
+.bg__canvas {
+  width: 100%;
+  height: 100vh;
+  background-color: var(--blue-color);
+  box-sizing: border-box;
+}
+
+
+/*Modificador*/
+.cursor--expand {
+  animation: cursor-animate-3 550ms forwards;
+  border: 10px solid rgb(var(--green-rbg-color));
+}
+
+.cursor--expand::after {
+  border: 15px solid rgba(var(--green-rbg-color), .3);
+}
+
+/*Keyframes*/
+@keyframes cursor-animate {
+  from {
+    transform: scale(1);
+  }
+
+  to {
+    transform: scale(1.5)
+  }
+}
+
+@keyframes cursor-animate-2 {
+  from {
+    transform: scale(1);
+  }
+
+  to {
+    transform: scale(.3);
+  }
+}
+
+@keyframes cursor-animate-3 {
+  0% {
+    transform: scale(1);
+  }
+
+  50% {
+    transform: scale(3);
+  }
+
+  100% {
+    transform: scale(1);
+    opacity: 0;
+  }
+}
+
+
+/*--- PLUS ANIMATION CC ---*/
+/*! SocialCount - v1.0.0 - 2017-06-01
+* https://github.com/filamentgroup/SocialCount
+* Copyright (c) 2017 zachleat; Licensed MIT */
+.first-section {
+  height: 100vh;
+  background-color: yellow;
+}
+
+body, html {
+  margin: 0;
+  overflow-x: hidden;
+}
+
+/******* =HEADER VIDEO *******/
+#home-start {
+  position: relative;
+  /*height: 200vh;*/
+  z-index: 10;
+}
+
+.home-start-fixed {
+  /*position: fixed;*/
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100vh;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -webkit-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+  /*overflow: hidden; */
+}
+
+#home-start .block-bg-cover {
+  top: -15px;
+  left: -15px;
+  width: 105%;
+  height: 105%;
+}
+
+.no-object-fit #home-start .bg-video {
+  position: absolute;
+  z-index: 0;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  background: transparent url(../../video/flow-video.html) no-repeat center center;
+  background-size: cover;
+}
+
+#home-start .bg-p {
+  position: absolute;
+  z-index: 10;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+
+.backredcolor {
+  background-color: #d72b2a;
+}
+
+#home-start .home-p {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  display: block;
+  max-width: none;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -webkit-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+  -webkit-transform-origin: 50% 45%;
+  transform-origin: 50% 45%;
+}
+
+#home-start .home-p .p {
+  opacity: 1;
+  -webkit-transition: opacity 0.2s linear;
+  transition: opacity 0.2s linear;
+}
+
+#home-start .fadeInsideP .home-p .p {
+  opacity: 0;
+}
+
+#home-start .home-p {
+  -webkit-transition: transform 0.4s ease-out;
+  transition: transform 0.4s ease-out;
+}
+
+#home-start .go-p .home-p {
+  -webkit-transform: scale(12, 12) !important;
+  transform: scale(12, 12) !important;
+}
+
+#home-start .sentences {
+  position: absolute;
+  z-index: 5;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+}
+
+#home-start .sentence {
+  position: absolute;
+  width: 100%;
+  top: 43%;
+  font: normal 400 84px/84px "Knockout 27 A", "Knockout 27 B", Helvetica, Arial, sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+  transform: translate3d(0, -50%, 0);
+  opacity: 0;
+  overflow: hidden;
+}
+
+#home-start .sentence span {
+  display: inline-block;
+  transform: translate3d(0, 100%, 0);
+}
+
+#home-start .call-to-action-leiria {
+  position: absolute;
+  top: calc(43% + 60px);
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+  transform: translateX(-50%);
+  opacity: 0;
+  visibility: hidden;
+  height: 60px;
+  width: 190px;
+  -webkit-transition: opacity 0.25s ease-in-out;
+  transition: opacity 0.25s ease-in-out;
+}
+
+#home-start .call-to-action-leiria .container {
+  height: 190px;
+  width: 60px;
+  left: 62px;
+  top: -68px;
+}
+
+#home-start .call-to-action-leiria.in {
+  opacity: 1;
+  visibility: visible;
+}
+
+#home-start .txt-help {
+  position: absolute;
+  z-index: 20;
+  left: 0;
+  bottom: 50px;
+  width: 100%;
+  font: normal 400 20px/20px "Knockout 27 A", "Knockout 27 B", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+  color: #ffffff;
+}
+
+#home-start .line {
+  position: absolute;
+  z-index: 20;
+  display: block;
+  top: auto;
+  bottom: 100px;
+  left: 50%;
+  width: 2px;
+  height: 200px;
+  margin-left: -1px;
+  background: white;
+  background: -webkit-linear-gradient(top, white 50%, rgba(255, 255, 255, 0) 50%);
+  background: linear-gradient(to bottom, white 50%, rgba(255, 255, 255, 0) 50%);
+  background-size: 100% 200%;
+  background-position: 0 -200px;
+}
+
+#home-start .line.startScroll {
+  animation: animHomeHeaderLine 3s ease forwards infinite;
+}
+
+@keyframes animHomeHeaderLine {
+  0% {
+    background-position: 0 -200px;
+  }
+
+  50% {
+    background-position: 0 0px;
+  }
+
+  100% {
+    background-position: 0 202px;
+  }
+}
+
+@keyframes animHomeHeaderLineMobile {
+  0% {
+    background-position: 0 -100px;
+  }
+
+  50% {
+    background-position: 0 0px;
+  }
+
+  100% {
+    background-position: 0 102px;
+  }
+}
+
+@keyframes animHomeHeaderLineMobileMinimum {
+  0% {
+    background-position: 0 -50px;
+  }
+
+  50% {
+    background-position: 0 0px;
+  }
+
+  100% {
+    background-position: 0 52px;
+  }
+}
+
+#home-start .header-cover {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  max-width: none;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  -webkit-transform: translate3d(-60%, -50%, 0);
+  -ms-transform: translate3d(-60%, -50%, 0);
+  transform: translate3d(-60%, -50%, 0);
+}
+
+/*.orientation_portrait #home-start .bg{
+  background: transparent url(/public/files/home/start-portrait.svg) no-repeat center center;
+  background-size: cover;
+}
+*/
+.mobile #home-start .sentences {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+  align-items: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.mobile #home-start .sentences .sentence {
+  position: relative;
+  top: auto;
+  -webkit-transform: none;
+  transform: none;
+}
+
+.mobile #home-start .call-to-action-leiria,
+.mobile #home-start .btn {
+  position: relative;
+  top: auto;
+  -webkit-transform: none;
+  transform: none;
+  left: auto;
+  margin-top: 20px;
+}
+
+@media screen and (max-width: 1024px) {
+  #home-start .bg-p {
+    display: none;
+  }
+
+  #home-start {
+    height: 100vh;
+  }
+
+  #home-start .sentence {
+    top: 49%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  #home-start .sentence {
+    padding: 0 180px;
+  }
+  .nav-link
+  {
+    font-size: 1em;
+  }
+  .mobile #home-start .sentence {
+    padding: 0;
+  }
+}
+
+@media screen and (max-width: 414px) {
+
+  #home-start .sentence {
+    font-size: 64px;
+    line-height: 64px;
+    padding: 0 20px;
+  }
+
+  #home-start .line {
+    height: 100px;
+    background-position: 0 -100px;
+  }
+
+  #home-start .line.startScroll {
+    animation-name: animHomeHeaderLineMobile;
+  }
+
+  .safari #home-start .sentence {
+    top: 45%;
+  }
+
+  .safari #home-start .line {
+    bottom: 80px;
+  }
+
+  .safari #home-start .txt-help {
+    bottom: 40px;
+  }
+
+  #home-start .header-cover {
+    -webkit-transform: translate3d(-65%, -45%, 0);
+    -ms-transform: translate3d(-65%, -45%, 0);
+    transform: translate3d(-65%, -45%, 0);
+  }
+}
+
+@media screen and (max-width: 374px) {
+  #home-start .line {
+    display: none;
+  }
+}
+
+@media screen and (max-height: 750px) and (min-width: 1024px) {
+  #home-start .line.startScroll {
+    animation-name: animHomeHeaderLineMobile;
+  }
+
+  #home-start .line {
+    height: 100px;
+    background-position: 0 -100px;
+  }
+}
+
+/*---- END PLUS ANIMATION ----*/
+
+
+/* Cloud Informatics CSS */
+.main-section {
+  padding: 30px 0;
+}
+
+.main-section h1 {
+  font-weight: 400;
+  font-size: 3em;
+  text-transform: capitalize;
+  text-align: center;
+  color: #101F31;
+  font-family: "Poppins";
+  margin: 0 0 -20px;
+}
+
+.main-section strong {
+  color: #00ABDF;
+}
+
+.main-box-wrapper {
+  max-width: 1000px;
+  margin: 150px auto 0;
+}
+
+.main-box {
+  border: 2px solid #3FD2FF;
+  font-family: "Poppins";
+  color: #00ABDF;
+  padding: 20px;
+  border-radius: 20px;
+  font-size: 14px;
+  text-align: center;
+  min-height: 380px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+.main-box:before {
+  content: "";
+  width: 20px;
+  height: 65px;
+  background-image: url(https://onecontentpro.com/ihealthis-final/wp-content/uploads/2023/06/box-arrow-short.png);
+  position: absolute;
+  left: -11.4px;
+  background-size: 13px;
+  background-position: center;
+  background-repeat: no-repeat;
+  bottom: 100px;
+}
+
+.main-box:after {
+  content: "";
+  width: 20px;
+  height: 65px;
+  background-image: url(https://onecontentpro.com/ihealthis-final/wp-content/uploads/2023/06/box-arrow-long.png);
+  position: absolute;
+  right: -11px;
+  background-size: 13px;
+  background-position: center;
+  background-repeat: no-repeat;
+  top: 100px;
+}
+
+.second-box .main-box:after {
+  background-image: url(https://onecontentpro.com/ihealthis-final/wp-content/uploads/2023/06/box-arrow-short.png);
+  right: auto;
+  left: -11.4px;
+}
+
+.second-box .main-box:before {
+  background-image: url(https://onecontentpro.com/ihealthis-final/wp-content/uploads/2023/06/box-arrow-long.png);
+  left: auto;
+  right: -12px;
+}
+
+.first-box:before {
+  content: "";
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  background-image: url(https://onecontentpro.com/ihealthis-final/wp-content/uploads/2023/06/connect-border.svg);
+  background-repeat: no-repeat;
+  background-size: 254px;
+  left: 45%;
+  top: -154px;
+}
+
+.second-box:before {
+  content: "";
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  background-image: url(https://onecontentpro.com/ihealthis-final/wp-content/uploads/2023/06/connect-border.svg);
+  background-repeat: no-repeat;
+  background-size: 254px;
+  right: 50%;
+  top: -154px;
+  transform: scaleX(-1);
+}
+
+.image-with-text .container {
+  max-width: 1000px;
+}
+
+.image-with-text h2 {
+  font-family: 'Poppins';
+  font-weight: 600;
+  color: #00ABDF;
+}
+
+.image-with-text p {
+  font-family: 'Poppins';
+  color: #101F31;
+  font-weight: 400;
+  font-size: 15px;
+  margin: 0;
+}
+
+.image-with-text .row {
+  margin: 30px 0;
+  position: relative;
+}
+
+.line {
+  position: absolute;
+  max-width: 450px;
+  top: 255px;
+  left: 215px;
+  z-index: -1;
+}
+
+.line-right {
+  position: absolute;
+  max-width: 520px;
+  top: 220px;
+  left: 70px;
+  z-index: -1;
+}
+
+.image-with-text {
+  background-image: url(https://onecontentpro.com/ihealthis-final/wp-content/uploads/2023/06/bg-text.svg);
+  background-size: 100% auto;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.icon-box {
+  width: 200px;
+  height: 200px;
+  background-image: url(https://onecontentpro.com/ihealthis-final/wp-content/uploads/2023/06/round-bottom-arrow.svg);
+  background-size: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px auto;
+}
+
+.box-without-arrow {
+  background-image: url(https://onecontentpro.com/ihealthis-final/wp-content/uploads/2023/06/round-without-arrow.svg);
+}
+
+.box-top-arrow {
+  background-image: url(https://onecontentpro.com/ihealthis-final/wp-content/uploads/2023/06/round-arrow-top.svg);
+}
+
+.lab-experty-list {
+  display: flex;
+  text-align: center;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 30px 0 0;
+}
+
+.lab-item h3 {
+  font-family: 'Poppins';
+  font-size: 18px;
+  color: #00ABDF;
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+.lab-item {
+  flex: 0 0 25%;
+}
+
+.lab-item p {
+  font-family: 'Poppins';
+  font-size: 12px;
+  color: #101F31;
+  min-height: 127px;
+}
+
+.lab-item h3 span {
+  display: block;
+}
+
+.lab-item.top-space {
+  margin-top: 225px;
+}
+
+.big-text {
+  margin: 0 -120px;
+}
+
+.lab-experties {
+  padding: 70px 0;
+  background-image: url(https://onecontentpro.com/ihealthis-final/wp-content/uploads/2023/06/Lab-Experties-Bg.svg);
+  background-size: 100% auto;
+  background-position: bottom;
+  background-repeat: no-repeat;
+}
+
+.lab-experties h2 {
+  font-family: 'Poppins';
+  color: #00ABDF;
+  text-align: center;
+}
+
+.lab-tube {
+  position: absolute;
+  left: 100px;
+  width: 10vw;
+}
+
+.microscope {
+  position: absolute;
+  right: 100px;
+  width: 10vw;
+}
+
+.lab-transformation h2 {
+  font-family: 'Poppins';
+  font-weight: 600;
+  color: #00ABDF;
+}
+
+.lab-transformation p {
+  font-family: 'Poppins';
+  font-size: 15px;
+}
+
+.ihealth-item h3 {
+  font-family: 'Poppins';
+  font-size: 18px;
+  font-weight: 600;
+  color: #00ABDF;
+}
+
+.mobile-icon {
+  width: 150px;
+  height: 150px;
+  background: #F2F2F2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  box-shadow: 4px 6px 6px rgb(0 0 0 / 20%);
+  margin: 0 0 20px;
+  display: none;
+}
+
+.mobile-icon img {
+  height: 50px;
+}
+
+.ihealth-item p {
+  font-size: 13px;
+}
+
+.ihealth-item.min-height {
+  min-height: 250px;
+}
+
+.lab-transformation {
+  padding: 70px 0;
+  position: relative;
+}
+
+.ihealth-left {
+  position: absolute;
+  max-width: 14vw;
+  left: 0;
+  top: 0;
+}
+
+.ihealth-right {
+  position: absolute;
+  max-width: 14vw;
+  right: 0;
+  top: 0;
+}
+
+.ihealth-bottom {
+  position: absolute;
+  right: 0;
+  bottom: -40px;
+  max-width: 30vw;
+}
+
+/* End Cloud Informatics  */
+
+
+
+/*------// PROCUREMENT VEHICLE PAGE CSS //------*/
+
+/*-- Banner --*/
+.pro-title {
+  color: #00ABDF;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 50px;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.pro-title span {
+  color: black;
+  font-weight: 400;
+
+}
+
+.pro-img-box {
+  text-align: center;
+}
+
+.probanner-img {
+  width: 85vw;
+  margin-top: 30px;
+}
+
+.pro-left-design {
+  position: absolute;
+  top: 111px;
+  width: 25vw;
+  left: 0;
+}
+
+.pro-right-design {
+  position: absolute;
+  top: 111px;
+  width: 25vw;
+  right: 0;
+}
+
+.pro-right-spiral {
+  position: absolute;
+  right: 80px;
+  top: 612px;
+  width: 3vw;
+}
+
+/*-- End Banner --*/
+
+
+/*-- Pro second Sec --*/
+.pro-second-sec-img {
+  width: 75%;
+  margin-top: 25px;
+}
+
+.pro-box-title {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+  color: #00ABDF;
+  margin-top: 40px;
+}
+
+.pro-box-desc {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 30px;
+  color: #101F31;
+}
+
+.sec-box-2 {
+  border-right: 1px solid #00ABDF;
+}
+
+.sec-box-3 {
+  border-right: 1px solid #00ABDF;
+}
+
+.row.pro-second-sec-row {
+  border: 2px solid #00ABDF;
+  border-style: dashed;
+  padding: 14px 23px 38px;
+  border-radius: 19px;
+  margin: 112px 0;
+}
+
+/*-- End Pro second Sec --*/
+
+
+/*-- Pro Detail Sec --*/
+
+.pro-details-sec {
+  background-image: url("https://onecontentpro.com/ihealthis-final/wp-content/uploads/2023/06/pro-detail-bg.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 0 210px;
+  position: relative;
+}
+
+.pro-detail-title {
+  color: #00ABDF;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 50px;
+  margin-top: 30px;
+}
+
+.pro-detail-title span {
+  color: black;
+  font-weight: 400;
+
+}
+
+.pro-detail-desc {
+  margin: 0;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  color: #101F31;
+}
+
+.pro-detail-desc-box {
+  margin-top: 35px;
+}
+
+.pro-detail-img {
+  float: right;
+}
+
+.pro-box {
+  text-align: center;
+  background-image: linear-gradient(to right, #00ABDF17, #00abdf08);
+  padding: 28px 37px;
+  height: 94px;
+  border-left: 2px solid #00ABDF;
+  margin: 0 -11px;
+  text-align: left;
+}
+
+.pro-detail-head {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 9px;
+  color: #00ABDF;
+}
+
+.last-box {
+  border: 2px solid #00ABDF;
+  border-style: dashed;
+  padding: 30px 50px;
+  border-radius: 19px;
+  margin: 60px 0;
+  background: white;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.last-box-head {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 9px;
+  color: #00ABDF;
+}
+
+.download-btn {
+  background-color: #00ABDF;
+  width: 215px;
+  display: block;
+  border-radius: 50px;
+  color: white;
+  font-family: 'Poppins';
+  text-transform: uppercase;
+  font-size: 12px;
+  padding: 12px 28px;
+  text-decoration: none;
+  cursor: pointer;
+  transition: .5s;
+  margin: 0 auto;
+}
+
+.download-btn:hover {
+  background-color: rgb(35, 30, 30);
+}
+
+.gsa-left-spiral {
+  position: absolute;
+  top: 50px;
+  left: 76px;
+  width: 3vw;
+}
+
+.gsa-right-plant {
+  position: absolute;
+  top: -6px;
+  right: 0;
+  width: 6vw;
+}
+
+.gsa-left-plant {
+  position: absolute;
+  top: 521px;
+  left: 0;
+  width: 7vw;
+}
+
+.gsa-right-spiral {
+  position: absolute;
+  top: 521px;
+  right: 76px;
+  width: 3vw;
+}
+
+
+/*-- End Pro Detail Sec --*/
+/*------// END PROCUREMENT VEHICLE PAGE CSS //------*/
+
+
+
+/*------// MILITARY VETERAN PAGE CSS //------*/
+
+/*-- Banner --*/
+
+.military-banner-sec {
+  background-image: url("https://onecontentpro.com/ihealthis-final/wp-content/uploads/2023/06/military-background.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.military-title {
+  color: #00ABDF;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 50px;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.military-title span {
+  color: black;
+  font-weight: 400;
+
+}
+
+.military-img-box {
+  text-align: center;
+}
+
+.military-banner-img {
+  width: 50vw;
+  margin-top: -10px;
+}
+
+/*-- End Banner --*/
+
+
+/*-- Military Section 1 --*/
+
+.military-img {
+  width: 90%;
+}
+
+.military-text-box {
+  margin: auto 0;
+  height: 520px;
+  margin-top: 138px;
+  border: 2px solid #00ABDF;
+  border-style: dashed;
+  padding: 10px 50px 15px;
+  border-radius: 19px;
+  height: 299px;
+  width: 600px;
+}
+
+.spiral-design {
+  position: absolute;
+  right: 40px;
+  bottom: -400px;
+  width: 3vw;
+}
+
+.flower-design {
+  position: absolute;
+  left: 0;
+  top: 1510px;
+  width: 7vw;
+}
+
+.military-box-desc {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 28px;
+}
+
+.military-box-title {
+  color: #00ABDF;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 26px;
+  margin-top: 30px;
+}
+
+.military-box-title span {
+  color: black;
+  font-weight: 400;
+
+}
+
+/*-- End Military Section 1 --*/
+
+/*-- Growth Section --*/
+
+.growth-sec {
+  background-size: contain;
+  background-position: center;
+  background-position-y: -155px;
+  margin-top: 95px;
+  background-repeat: no-repeat;
+}
+
+.growth-title {
+  color: #00ABDF;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 50px;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.growth-title span {
+  color: black;
+  font-weight: 400;
+
+}
+
+.growth-desc {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 28px;
+  text-align: center;
+  color: #101F31;
+  padding: 0 245px;
+}
+
+.growth-subhead {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 30px;
+  text-align: center;
+  letter-spacing: -0.03em;
+  color: #101F31;
+}
+
+.growth-box {
+  background-image: url("https://onecontentpro.com/ihealthis-final/wp-content/uploads/2023/06/growth-box-bg.png");
+  background-size: cover;
+  text-align: center;
+  margin: 70px 0;
+  background-repeat: no-repeat;
+  padding: 0 45px;
+  height: 281px;
+}
+
+.growth-title-box {
+  margin-bottom: 60px;
+}
+
+.growth-box-title {
+  color: #00ABDF;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 18px;
+  text-align: center;
+  margin-top: 30px;
+  text-align: center;
+}
+
+.growth-box-title span {
+  color: black;
+  font-weight: 400;
+
+}
+
+.growth-box-desc {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13.5px;
+  line-height: 24px;
+  text-align: center;
+  color: #101F31;
+  margin: 0 3px 16px;
+  height: 100px;
+}
+
+.growth-img {
+  margin-top: -50px;
+  width: 90px;
+}
+
+.growth-btn {
+  background: #FFFFFF;
+  border: 1.5px solid #2B92F0;
+  border-radius: 500px;
+  padding: 10px 35px;
+  text-decoration: navajowhite;
+  text-transform: uppercase;
+  font-size: 13px;
+  letter-spacing: 2px;
+  transition: .5s;
+}
+
+.growth-btn:hover {
+  background-color: #2B92F0;
+  color: white;
+  cursor: pointer;
+}
+
+/*-- End Growth Section --*/
+
+
+/*-- Technology Section --*/
+
+.technology-sec {
+  background-image: url("https://onecontentpro.com/ihealthis-final/wp-content/uploads/2023/06/lines.png");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-position-y: -34px;
+  position: relative;
+}
+
+.technology-title {
+  color: #00ABDF;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 50px;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 55px;
+}
+
+.technology-title span {
+  color: black;
+  font-weight: 400;
+}
+
+.technology-img-box {
+  text-align: center;
+}
+
+.technology-img {
+  width: 1000px;
+  margin-top: 65px;
+}
+
+.technology-title-box {
+  text-align: center;
+}
+
+.veteran-btn, .veteran-btn:visited{
+  background: #437FEC;
+  box-shadow: 19px 26px 45px rgba(105, 195, 235, 0.12);
+  border-radius: 20px;
+  color: white;
+  text-decoration: navajowhite;
+  padding: 10px 30px;
+  transition: .5s;
+  font-family: 'Poppins';
+}
+
+.veteran-btn:hover {
+  background-color: #101F31;
+  color: white;
+  cursor: pointer;
+}
+
+.block-image {
+  position: absolute;
+  top: 31px;
+  width: 18vw;
+}
+
+.tv-image {
+  position: absolute;
+  top: 31px;
+  width: 18vw;
+  right: 22px;
+}
+
+.side-plant {
+  position: absolute;
+  top: 410px;
+  width: 8vw;
+}
+
+.right-design {
+  position: absolute;
+  top: 480px;
+  width: 3vw;
+  right: 80px;
+}
+
+.technology-desc-box {
+  border: 3.5px dashed #00ABDF;
+  border-radius: 20px;
+  padding: 30px;
+  margin-top: 75px;
+  width: 1170px;
+  margin: 60px auto;
+}
+
+.technology-desc {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 28px;
+  text-align: center;
+  color: #101F31;
+}
+
+.left-design {
+  position: absolute;
+  top: 810px;
+  width: 3vw;
+  left: 58px;
+}
+
+.right-side-plant {
+  position: absolute;
+  top: 880px;
+  width: 7vw;
+  right: 0;
+}
+
+/*-- End Technology Section --*/
+/*------// END MILITARY VETERAN PAGE CSS //------*/
+
+
+
+
+
+/*-----// CAREER AND WORKING AT IHEALTH PAGE CSS //-----*/
+.career-title {
+  color: #00ABDF;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 3em;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.career-title span {
+  color: black;
+  font-weight: 400;
+
+}
+
+.career-img-box {
+  text-align: center;
+}
+
+.careerbanner-img {
+  width: 63vw;
+  margin-top: 30px;
+}
+
+.career-left-design {
+  position: absolute;
+  top: 111px;
+  width: 22vw;
+  left: 0;
+}
+
+.career-right-design {
+  position: absolute;
+  top: 106px;
+  width: 20vw;
+  right: 0;
+}
+
+.career-bottom-left-design {
+  position: absolute;
+  left: 0;
+  top: 549px;
+  width: 21vw;
+}
+
+.career-bottom-right-design {
+  position: absolute;
+  right: 0;
+  top: 549px;
+  width: 21vw;
+}
+
+.career-textbox-title {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 55px;
+  letter-spacing: -0.03em;
+  text-transform: uppercase;
+  color: #00ABDF;
+}
+
+.career-second-text-box {
+  border: 3.5px dashed #00ABDF;
+  border-radius: 30px;
+  padding: 20px 40px;
+}
+
+.career-textbox-desc {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 32px;
+  color: #101F31;
+}
+
+.career-img {
+  width: 80%;
+}
+
+.career-left-design2 {
+  position: absolute;
+  left: 0;
+  top: 200px;
+}
+
+.career-second-sec {
+  position: relative;
+}
+
+.career-left-design2 {
+  position: absolute;
+  left: 0;
+  top: 250px;
+  width: 12vw;
+}
+
+.form-title {
+  color: #00ABDF;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 3em;
+  text-align: center;
+  margin-top: 30px;
+	width: 65%;
+    text-align: left;
+}
+
+.form-title span {
+  color: black;
+  font-weight: 400;
+
+}
+
+.position-box {
+  border: 2.5px dashed #00ABDF;
+  border-radius: 30px;
+  padding: 31px 60px;
+}
+
+.form-check {
+  display: flex;
+  min-height: 1.5rem;
+  padding-left: 1.5em;
+  margin-bottom: .125rem;
+  align-content: revert;
+  align-items: end;
+  width: 69%;
+  margin: 20px auto;
+}
+
+.checkbox-div {
+  margin-left: 55px;
+  font-family: 'Poppins';
+  font-size: 15px;
+}
+
+#search_keywords {
+  border: 2px solid #00ABDF;
+  border-radius: 27px;
+  font-family: 'Poppins';
+  font-size: 13px;
+  padding: 10px 20px;
+	margin: 0 20px;
+}
+.search_jobs {
+    display: flex;
+    align-items: center;
+}
+#search_location {
+  border: 2px solid #00ABDF;
+  border-radius: 27px;
+  font-family: 'Poppins';
+  font-size: 13px;
+  padding: 10px 20px;
+}
+
+.form-check-input:checked {
+  background-color: #00ABDF;
+  border-color: #00ABDF;
+  border-radius: 20px;
+}
+
+.positions {
+    border: 2.5px dashed #00ABDF !important;
+    border-radius: 30px;
+    padding: 30px !important;
+    margin-top: 40px !important;
+}
+
+.position-title {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 36px;
+  letter-spacing: -0.01em;
+  text-transform: capitalize;
+  color: #52BBE8;
+}
+
+.position-desc {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 28px;
+  color: #101F31;
+}
+
+.location {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px !important;
+    color: #437FEC !important;
+    padding-left: 100px !important;
+    width: 100% !important;
+    margin: 20px 0 0;
+}
+ul.job_listings li.job_listing a img.company_logo {
+    width: 100px;
+    object-fit: contain;
+    height: auto;
+}
+
+ul.job_listings li.job_listing a div.position {
+    width: calc(100% - 100px);
+    padding-left: 100px;
+}
+
+ul.job_listings li.job_listing a .meta {
+    text-align: left;
+    padding-left: 100px;
+    display: block;
+    width: 100%;
+    margin: 20px 0 0;
+}
+.position-btn {
+    text-decoration: none;
+    background: #2B92F0;
+    border: 1px solid #FFFFFF;
+    border-radius: 500px;
+    color: white !important;
+    font-family: 'Poppins';
+    padding: 10px 39px;
+    font-size: 12px;
+    text-transform: uppercase;
+    display: inline-block !important;
+}
+.position-sec {
+  position: relative;
+}
+
+.position-left-plant {
+  width: 6vw;
+  position: absolute;
+  top: 430px;
+  left: 0;
+}
+
+.position-right-plant {
+  right: 0;
+  position: absolute;
+  top: 29px;
+  width: 6vw;
+}
+
+.position-right-design {
+  position: absolute;
+  right: 0;
+  top: 261px;
+  width: 14vw;
+}
+
+.position-cube {
+  position: absolute;
+  right: 0;
+  width: 6vw;
+  top: 976px;
+}
+
+.position-right-plant2 {
+  position: absolute;
+  right: 0;
+  top: 1369px;
+  width: 6vw;
+}
+
+.position-left-plant2 {
+  position: absolute;
+  left: 0;
+  width: 6vw;
+}
+
+.position-left-spiral {
+  position: absolute;
+  top: 951px;
+  left: 32px;
+  width: 3vw;
+}
+
+.perk-img-box {
+  border: 2.5px dashed #00ABDF;
+  border-radius: 30px;
+  padding: 50px;
+}
+
+.perk-title {
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.list-title a {
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  font-size: 18px;
+  float: right;
+  text-decoration: underline;
+  color: #101F31;
+}
+
+.perk-img-box {
+  border: 2.5px dashed #00ABDF;
+  border-radius: 30px;
+  padding: 50px;
+  width: 91%;
+  margin: 105px auto 50px;
+}
+
+.perk-title-row {
+  border-bottom: 1px solid #80808052;
+  width: 1034px;
+  margin: 0 auto;
+}
+
+.perk-btn {
+  text-align: center;
+  width: 100%;
+  margin: 0 auto;
+  display: block;
+  background-color: #2B92F0D9;
+  padding: 20px;
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  transition: .5s;
+  cursor: pointer;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.perk-btn:hover {
+  background-color: #101F31;
+  color: white;
+}
+
+.perk-img-sec {
+  position: relative;
+}
+
+.image-left-design {
+  position: absolute;
+  left: 0;
+  top: 305px;
+  width: 12vw;
+}
+
+.image-right-plant {
+  position: absolute;
+  right: 0;
+  top: 632px;
+  width: 6vw;
+}
+
+.image-left-plant {
+  position: absolute;
+  top: 803px;
+  width: 6vw;
+}
+
+.image-right-spiral {
+  position: absolute;
+  right: 47px;
+  top: 300px;
+  width: 3vw;
+}
+
+.feature-sec {
+  position: relative;
+}
+
+.feature-desc-box {
+  border: 2.5px dashed #00ABDF;
+  border-radius: 30px;
+  padding: 11px 40px;
+}
+
+.feature-title {
+  color: #00ABDF;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 1.6em;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.feature-title span {
+  color: black;
+  font-weight: 400;
+
+}
+
+.feature-desc {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 32px;
+  text-align: center;
+  color: #101F31;
+}
+
+.feature-right-design {
+  position: absolute;
+  right: 0;
+  top: -170px;
+  width: 13vw;
+}
+
+.feature-cube {
+  position: absolute;
+  top: 266px;
+  width: 5vw;
+  left: 17px;
+}
+
+.feature-right-plant {
+  position: absolute;
+  right: 0;
+  top: 584px;
+  width: 6vw;
+}
+
+.career-video-section {
+  position: relative
+}
+
+.career-video-section {
+  margin-top: 40px;
+}
+
+.career-video-title {
+  color: #00ABDF;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 3.3em;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.career-video-title span {
+  color: black;
+  font-weight: 400;
+
+}
+
+.career-video-desc {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 28px;
+  text-align: center;
+  color: #101F31;
+  margin: 30px 120px;
+}
+
+.career-video-box {
+  text-align: center;
+}
+
+.career-video-box>video {
+  width: 95%;
+  border-radius: 20px;
+}
+
+.career-video-right-spiral {
+  position: absolute;
+  right: 98px;
+  top: 12px;
+  width: 3vw;
+}
+
+.career-video-left-plant {
+  position: absolute;
+  left: 0;
+  top: 300px;
+  width: 6vw;
+}
+
+.career-video-right-plant {
+  position: absolute;
+  right: 0;
+  top: 300px;
+  width: 6vw;
+}
+
+.career-video-left-spiral {
+  position: absolute;
+  left: 41px;
+  top: 527px;
+  width: 3vw;
+}
+
+.career-video-right-plant2 {
+  position: absolute;
+  right: 0;
+  top: 400px;
+  width: 6vw;
+}
+
+.career-video-right-plant2 {
+  position: absolute;
+  right: 0;
+  top: 900px;
+  width: 7vw;
+}
+
+
+/*---------------- CYBER SECURITY TRUST PAGE --------------*/
+.position-relative{
+margin:0 auto 60px!important;
+
+}
+.cyber-right-spiral {
+  position: absolute;
+  right: 75px;
+  top: 108px;
+  width: 3vw;
+}
+
+.cyber-box-title {
+  color: #00ABDF;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 1.9em;
+  text-align: center;
+  margin-top: 30px;
+  text-transform: capitalize;
+}
+
+.cyber-img-2 {
+  margin-right: -40px;
+  width: 35vw;
+}
+
+.cyber-img2-box {
+  text-align: center;
+}
+
+.point-box-title {
+  font-size: 1.2em;
+}
+
+.cyberpoint-boxes-row {
+  margin-top: 40px;
+}
+
+.cyber-point-box-2 {
+  margin-top: -20px;
+}
+
+.cyber-points-row {
+  margin-top: 30px;
+}
+
+.cyber-choose-title {
+  font-size: 2em;
+}
+
+.cyber-choose-desc {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 28px;
+  text-align: center;
+  color: #101F31;
+}
+
+.cyber-choose-textbox {
+  border: 2.5px dashed #00ABDF;
+  border-radius: 30px;
+  padding: 20px;
+}
+
+.cyber-choose-row {
+  margin-top: 40px;
+}
+
+.choose-box-title {
+  background: #437FEC;
+  box-shadow: 19px 26px 45px rgba(105, 195, 235, 0.12);
+  border-radius: 20px;
+  padding: 10px 20px;
+  text-align: center;
+  width: 260px;
+  margin: -40px auto 20px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 24px;
+  letter-spacing: -0.01em;
+  text-transform: capitalize;
+  color: #FFFFFF;
+}
+
+.choose-box {
+  border: 2.5px dashed #437FEC;
+  box-shadow: 19px 26px 45px rgba(105, 195, 235, 0.12);
+  border-radius: 20px;
+  padding: 10px 30px;
+  text-align: center;
+  height: 150px;
+}
+
+.choose-boxes-row {
+  margin-top: 60px;
+}
+
+.choose-box-desc {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #101F31;
+}
+
+.choose-box.choose-box-3 {
+  width: 825px;
+  margin: 45px auto 0;
+}
+
+.secure-desc {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 28px;
+  text-align: center;
+  color: #101F31;
+  margin: 20px;
+}
+
+.secure-title-box {
+  border: 2.5px dashed #437FEC;
+  box-shadow: 19px 26px 45px rgba(105, 195, 235, 0.12);
+  border-radius: 20px;
+  margin-top: 70px;
+  text-align: center;
+  padding: 35px 30px 70px;
+}
+
+.secure-btn {
+  background-color: #00ABDF;
+  color: white;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 22px;
+  text-align: center;
+  letter-spacing: 0.155em;
+  text-transform: uppercase;
+  color: #FFF;
+  padding: 10px 30px;
+  width: 900px;
+  margin: 20px auto;
+  text-decoration: none;
+  border-radius: 20px;
+  transition: .5s;
+}
+
+.secure-btn:hover {
+  background-color: #437FEC;
+  cursor: pointer;
+}
+
+.cyber-benefit-row {
+  border: 2.5px dashed #00ABDF;
+  border-radius: 30px;
+  padding: 20px;
+  position: relative;
+  width: 1182px;
+  margin: 20px auto 70px;
+  position: relative;
+}
+
+.cyber-benefit-title {
+  margin-top: 20px;
+}
+
+.cyber-benefit-img-2 {
+  position: absolute;
+  right: -15px;
+  top: -36px;
+  width: 5.5vw;
+}
+
+.cyber-benefit-img-box {
+  text-align: center;
+  border-left: 2.5px dashed #2B92F0;
+}
+
+.cyber-benefit-textbox {
+  text-align: right;
+}
+
+.cyber-benefit-title {
+  margin-top: 20px;
+  text-align: right!important;
+}
+
+.risk-management-case {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  text-align: center;
+  color: #101F31;
+}
+
+.risk-textbox {
+  border: 2px solid #69C3EB;
+  border-radius: 130.757px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  padding: 10px;
+  width: 321px;
+}
+
+.risk-text {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+  color: #101F31;
+  text-align: left;
+  margin-left: 10px;
+margin-bottom:0px;
+}
+
+.risk-img {
+  width: 66px;
+}
+
+.risk-boxes-row-2 {
+  width: 1320px;
+  margin: 20px 150px;
+}
+
+.risk-textbox-last {
+  border: 2px solid #69C3EB;
+  border-radius: 130.757px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  padding: 10px;
+  width: 321px;
+  margin: 0 329px;
+}
+
+.cyber-left-plant4 {
+  position: absolute;
+  left: 0;
+  top: -750px;
+  width: 7vw;
+}
+
+.heading-right-plant4.cyber-right-plant4 {
+  position: absolute;
+  right: 0;
+  top: -1477px;
+  width: 7vw;
+}
+
+.cyber-left-spiral {
+  position: absolute;
+  top: -8px;
+  left: 58px;
+  width: 3vw;
+}
+
+.cyber-right-spiral {
+  position: absolute;
+  top: -8px;
+  right: 58px;
+  width: 3vw;
+}
+
+.career-title.cyber-point-title {
+  font-size: 2.5em;
+}
+
+.life-cycle-section {
+  text-align: center;
+  background-image: url("https://onecontentpro.com/ihealthis-final/wp-content/uploads/2023/06/lines.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position-y: 195px;
+  position: relative;
+}
+
+.service-life-cycle {
+  width: 20vw;
+}
+
+.protect-img-1 {
+  position: absolute;
+  left: 10px;
+  top: 259px;
+  width: 21vw;
+}
+
+.protect-img-2 {
+  position: absolute;
+  right: 10px;
+  top: 259px;
+  width: 21vw;
+}
+
+.life-cycle-point-box {
+  background-image: url("https://onecontentpro.com/ihealthis-final/wp-content/uploads/2023/06/dev-box-bg.png");
+  background-size: cover;
+  position: relative;
+  background-repeat: no-repeat;
+  padding: 70px 20px;
+}
+
+.life-cycle-number {
+  position: absolute;
+  left: 67px;
+  top: -24px;
+  width: 45px;
+}
+
+.career-title.life-cycle-title {
+  color: #00ABDF;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 1.1em;
+  text-align: center;
+  margin-top: -80px;
+  text-transform: capitalize;
+  background-color: white;
+  border: 2px solid #52BBE8;
+  border-radius: 20px;
+  padding: 15px 0;
+  width: 348px;
+  margin: -106px auto 20px auto;
+}
+
+.life-cycle-boxes-row {
+  margin-top: 50px;
+}
+
+.main-box.life-cycle-main-box {
+  border: 2px solid #3FD2FF;
+  font-family: "Poppins";
+  color: #101F31;
+  padding: 50px 22px 0;
+  border-radius: 20px;
+  font-size: 14px;
+  text-align: center;
+  min-height: 180px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+.life-boxes-wrapper {
+  max-width: 1080px;
+  margin: 100px;
+}
+
+.main-box.life-cycle-main-box.last-box {
+  width: 535px;
+  margin: 0 auto;
+}
+
+.cyber-plant {
+  position: absolute;
+  left: 56px;
+  bottom: 381px;
+  width: 5vw;
+}
+
+.cyber-left-design {
+  position: absolute;
+  left: 0;
+  bottom: -219px;
+  width: 20vw;
+}
+
+.cyber-right-design {
+  position: absolute;
+  right: 0;
+  bottom: -219px;
+  width: 20vw;
+}
+
+/*---------------- END CYBER SECURITY TRUST PAGE --------------*/
+
+
+
+
+
+
+
+/*---------------- ZERO TRUST PAGE --------------*/
+.heading-box-desc.zero-desc {
+  margin: 20px 100px 20px;
+}
+
+.percent-box {
+  border: 2.5px dashed #00ABDF;
+  border-radius: 30px;
+  padding: 40px;
+  text-align: center;
+}
+
+.thirty-text {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 30px;
+  text-align: center;
+  color: #101F31;
+  margin-top: 20px;
+}
+
+.zero-trust-row-2 {
+  margin-top: 30px;
+}
+
+.zero-idealogy {
+  margin-top: 30px;
+}
+
+.zero-process-box-title {
+  font-size: 1.5em;
+}
+
+.zero-textbox-desc {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  text-align: center;
+  color: #101F31;
+}
+
+.zero-process-box {
+  border: 2.5px dashed #00ABDF;
+  border-radius: 30px;
+  padding: 20px;
+}
+
+.benefit-box-title {
+  font-size: 1.5em;
+  text-align: left;
+}
+
+.benefit-img-box {
+  text-align: center;
+  border-right: 2.5px dashed #2B92F0;
+}
+
+.benefit-desc {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 25px;
+  color: #101F31;
+  margin-top: 20px;
+}
+
+.benefit-boxes-row {
+  border: 2.5px dashed #00ABDF;
+  border-radius: 30px;
+  padding: 20px;
+  position: relative;
+  width: 100%;
+  margin: 20px auto 70px;
+}
+.benefit-boxes-row:nth-child(even) .benefit-img-box.challenge-image {
+    border-left: 2.5px dashed #2B92F0;
+}
+.zero-benefits-row {
+  margin-top: 100px;
+}
+
+.benefit-boxes-title {
+  margin-bottom: 30px;
+}
+
+.benefit-num-img {
+  position: absolute;
+  left: -15px;
+  top: -36px;
+  width: 5.5vw;
+}
+
+.choose-health-textbox {
+  padding: 30px;
+  border: 2.5px dashed #00ABDF;
+  border-radius: 30px;
+  text-align: center;
+}
+
+.acquire-box {
+  text-align: left;
+}
+
+.zero-pillar-box {
+  background-image: url(https://onecontentpro.com/ihealthis-final/wp-content/uploads/2023/06/zero-pillar-box-bg.png);
+  background-size: contain;
+  border: none;
+  height: 273px;
+  background-repeat: no-repeat;
+}
+
+.zero-pillar-img {
+  width: 100px;
+  margin-bottom: 30px;
+}
+
+.zero-pillar-desc {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 46px;
+  text-align: center;
+  letter-spacing: -0.03em;
+  text-transform: capitalize;
+  color: #030303;
+  margin: 40px 0;
+}
+
+/*---------------- END ZERO TRUST PAGE --------------*/
+
+
+/*---------- IT MANAGEMENT SERVICE PAGE ------------*/
+.it-boxes-section {
+  position: relative;
+}
+
+.it-img-box {
+  text-align: center;
+  background: #FFFFFF;
+  border: 2.5px dashed #00AFD8;
+  padding: 30px 20px;
+  border-radius: 30px;
+  width: 100%;
+}
+
+.it-desc-box {
+  border: 2.5px dashed #00AFD8;
+  padding: 43px 30px;
+  border-radius: 30px;
+  height: 290px;
+}
+
+.it-box-img {
+  width: 14.5vw;
+}
+
+.it-boxes-row {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.career-title.it-box-title {
+  font-size: 1.3em;
+  text-align: left;
+}
+.it-boxes-row .col-md-3 {
+    position: relative;
+}
+.it-box-connector-horizontal {
+    position: absolute;
+    width: 38px;
+    right: -20px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.it-box-connector-vertical {
+    position: absolute;
+    width: 25px;
+    bottom: -81px;
+    left: 50%;
+}
+
+.it-box-connector-horizontal-2 {
+    position: absolute;
+    width: 40px;
+    left: -20px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.it-box-desc {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 28px;
+  color: #101F31;
+
+}
+
+.cloud-left-design.it-banner-left-design {
+  position: absolute;
+  top: 300px;
+  width: 22vw;
+  left: 0;
+}
+
+.cloud-right-design.it-banner-right-design {
+  position: absolute;
+  top: 300px;
+  width: 22vw;
+  right: 0;
+}
+
+.cloud-left-spiral.it-banner-left-spiral {
+  position: absolute;
+  left: 111px;
+  top: 728px;
+  width: 3vw;
+}
+
+.cloud-right-spiral.it-banner-right-spiral {
+  position: absolute;
+  right: 111px;
+  top: 716px;
+  width: 3vw;
+}
+
+.it-second-section {
+  margin-top: 125px !important;
+}
+
+.it-second-desc {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 33px;
+  letter-spacing: -0.03em;
+  text-transform: capitalize;
+  color: #101F31;
+}
+
+.it-second-box-title {
+  color: #00ABDF;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 2.5em;
+  margin-top: 30px;
+  text-transform: capitalize;
+  text-align: left;
+}
+
+.it-boxes-left-design {
+  position: absolute;
+  top: 1276px;
+  width: 16vw;
+  left: 0;
+}
+
+.it-boxes-right-design {
+  position: absolute;
+  top: 1276px;
+  width: 16vw;
+  right: 0;
+}
+
+.it-benefit-list li {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 235.5%;
+  letter-spacing: -0.03em;
+  text-transform: capitalize;
+  color: #101F31;
+}
+
+.it-benefit-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.list-tick {
+  width: 19px;
+  margin-right: 10px;
+}
+
+.it-benefit-box {
+  text-align: right;
+}
+
+.career-title.it-benefit-title {
+  color: #00ABDF;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 1.9em;
+  text-align: right;
+  margin-top: 30px;
+  text-transform: capitalize;
+}
+
+.it-benefit-box-desc {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 24px;
+  text-align: right;
+  color: #101F31;
+}
+
+.career-title.it-benefit-title-left {
+  color: #00ABDF;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 1.9em;
+  text-align: left;
+  margin-top: 30px;
+  text-transform: capitalize;
+}
+
+.it-benefit-box-desc-left {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 24px;
+  text-align: left;
+  color: #101F31;
+}
+
+.it-benefit-row {
+  display: none;
+}
+
+.curls-left {
+  position: absolute;
+  left: 0px;
+  width: 16vw;
+  top: 42px;
+}
+
+.curls-right {
+  position: absolute;
+  right: 0px;
+  width: 16vw;
+  top: 42px;
+}
+
+.it-service-sec {
+  position: relative;
+}
+
+.it-service-img-box-1 {
+  text-align: right;
+}
+
+.service-desc-box-1 {
+  text-align: left;
+}
+
+.service-num-img {
+  width: 8vw;
+  margin-right: 70px;
+}
+
+.career-title.point-box-title.service-title {
+  text-align: left;
+}
+
+.career-title.point-box-title.service-title-right {
+  text-align: right;
+}
+
+.it-service-sec {
+  margin-top: 140px;
+}
+
+.service-desc-box-2 {
+  text-align: right;
+}
+
+.service-num-img-right {
+  width: 8vw;
+  margin-left: 70px;
+}
+
+.service-lines {
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  top: 309px;
+  z-index: -1;
+  width: 25vw;
+}
+
+.service-left-plant {
+  position: absolute;
+  width: 6vw;
+  top: 1062px;
+}
+
+.service-right-plant {
+  position: absolute;
+  width: 6vw;
+  top: 600px;
+  right: 0;
+}
+
+.service-right-curl {
+  position: absolute;
+  right: 53px;
+  bottom: 5px;
+  width: 16vw;
+}
+
+.steps-section {
+  margin-top: 60px;
+  position: relative;
+}
+
+.tool-section {
+  text-align: center;
+  background-image: url("https://onecontentpro.com/ihealthis-final/wp-content/uploads/2023/06/lines.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position-y: -37px;
+  position: relative;
+  margin-top: 100px;
+}
+
+.tool-left-img {
+  position: absolute;
+  left: 10px;
+  top: 19px;
+  width: 19vw;
+}
+
+.tool-right-img {
+  position: absolute;
+  right: 10px;
+  top: 19px;
+  width: 19vw;
+}
+
+.tool-img {
+  width: 51vw;
+}
+
+.tool-img.tool-img-2 {
+  width: 28vw;
+}
+
+.tool-img.tool-img-5 {
+  width: 80vw;
+}
+
+.tool-img.tool-img-6 {
+  width: 35vw;
+}
+
+.tool-img.tool-img-7 {
+  width: 83vw;
+}
+
+.tool-img.tool-img-8 {
+  width: 45vw;
+}
+
+.tool-img.tool-img-9 {
+  width: 73vw;
+}
+
+.tool-left-curl {
+  position: absolute;
+  left: 0;
+  width: 15vw;
+  top: 1100px;
+}
+
+.tool-right-curl {
+  position: absolute;
+  right: 0;
+  width: 15vw;
+  top: 1100px;
+}
+
+.tool-left-design {
+  position: absolute;
+  left: 0;
+  bottom: -418px;
+  width: 18vw;
+}
+
+.tool-right-design {
+  position: absolute;
+  right: 0;
+  bottom: -418px;
+  width: 18vw;
+}
+
+.tool-boxes-row.align-items-center {
+  border: 2.5px dashed #00ABDF;
+  border-radius: 30px;
+  padding: 20px;
+  position: relative;
+  width: 90%;
+  margin: 20px auto -24px;
+}
+.tool-boxes-row:nth-child(odd) {
+    margin-left: 90px;
+}
+.tool-boxes-row-left {
+  border: 2.5px dashed #00ABDF;
+  border-radius: 30px;
+  padding: 20px;
+  position: relative;
+  width: 1020px;
+  margin: 20px auto -24px 98px;
+}
+
+.measure-left-plant {
+  position: absolute;
+  left: 0;
+  top: 685px;
+  width: 7vw;
+}
+
+.measure-right-plant {
+  position: absolute;
+  right: 0;
+  top: 343px;
+  width: 7vw;
+}
+
+.measure-left-spiral {
+  position: absolute;
+  left: 74px;
+  top: 454px;
+  width: 3vw;
+}
+
+.measure-right-spiral {
+  position: absolute;
+  right: 103px;
+  top: 993px;
+  width: 3vw;
+}
+
+.step-title {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 36px;
+  text-align: center;
+  letter-spacing: -0.03em;
+  text-transform: capitalize;
+  color: #101F31;
+}
+
+.step-desc {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 24px;
+  text-align: center;
+  color: #101F31;
+}
+
+.step-text-box.step-2-box {
+  margin-bottom: -100px;
+  padding: 15px;
+  margin-left: -40px;
+}
+
+.step-text-box.step-4-box {
+  margin-bottom: -100px;
+  padding: 15px;
+  margin-left: -40px;
+  margin-right: -43px;
+  margin-left: 33px;
+}
+
+.step-text-box.step-6-box {
+  margin-bottom: -100px;
+  padding: 15px;
+  margin-left: 93px;
+  margin-right: -113px;
+}
+
+.step-text-box.step-1-box {
+  margin-top: -90px;
+}
+
+.step-text-box.step-3-box {
+  margin: -75px -99px 0 40px;
+}
+
+.step-text-box.step-5-box {
+  margin: -70px -110px 0 154px;
+}
+
+.step-curls-left {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 17vw;
+}
+
+.step-curls-right {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 17vw;
+}
+
+/*---------- END IT MANAGEMENT SERVICE PAGE ------------*/
+
+/*---// iHEALTH SOCIAL AND CORPORATE RESPONSIBILITY PAGE CSS //---*/
+.health-social-title {
+  color: #00ABDF;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 50px;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.health-social-title span {
+  color: black;
+  font-weight: 400;
+
+}
+
+.ihealth-img-box {
+  text-align: center;
+}
+
+.ihealthbanner-img {
+  width: 49vw;
+  margin-top: 30px;
+}
+
+.left-side-ihealth {
+  position: absolute;
+  top: 300px;
+  width: 21vw;
+  left: 116px;
+}
+
+.right-side-ihealth {
+  position: absolute;
+  top: 267px;
+  width: 22vw;
+  right: -19px;
+}
+
+.ihealth-social-desc-box {
+  border: 3.5px dashed #00ABDF;
+  border-radius: 30px;
+  padding: 20px 40px;
+  text-align: center;
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.ihealth-second-sec {
+  padding: 100px 0;
+  position: relative;
+}
+
+.ihealth-social-desc {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  text-align: center;
+  color: #101F31;
+}
+
+.ihealth-left-plant {
+  position: absolute;
+  top: 80px;
+  width: 8vw;
+}
+
+.ihealth-right-spiral {
+  position: absolute;
+  right: 57px;
+  width: 3.5vw;
+}
+
+.commit-sec {
+  position: relative;
+}
+
+.commit-title {
+  color: #00ABDF;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 3em;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.commit-title span {
+  color: black;
+  font-weight: 400;
+
+}
+
+.commit-left-design {
+  width: 15vw;
+  position: absolute;
+  left: 0;
+  top: 211px;
+}
+
+.commit-right-design {
+  width: 15vw;
+  position: absolute;
+  right: 0;
+  top: 211px;
+}
+
+.commit-boxes-row {
+  margin-top: 240px;
+}
+
+.commit-boxes-row-last {
+  margin-top: 35px;
+}
+
+.commit-box {
+  border: 3.5px dashed #69C3EB;
+  border-radius: 30px;
+  text-align: center;
+  position: relative;
+  padding: 30px 20px 20px;
+}
+
+.commit-head {
+  background: #437FEC;
+  box-shadow: 19px 26px 45px rgba(105, 195, 235, 0.12);
+  border-radius: 20px;
+  color: white;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 15px;
+  padding: 10px;
+  width: 300px;
+  margin: -80px auto 0;
+}
+
+.commit-desc {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 28px;
+  text-align: center;
+  color: #101F31;
+  margin: 15px 25px 23px;
+}
+
+.commit-num-img {
+  width: 6vw;
+  margin: -290px 0 0;
+}
+
+.commit-box.commit-box-2 {
+  margin-top: -70px;
+}
+
+.commit-dotted-line {
+  position: absolute;
+  top: -66px;
+  left: 168px;
+}
+
+.commit-box-10 .commit-dotted-line {
+  position: absolute;
+  top: -65px;
+  left: 636px;
+}
+
+.commit-box-desc {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 28px;
+  text-align: center;
+  color: #101F31;
+  padding-top: 20px;
+}
+
+.campaign-section {
+  margin-top: 40px;
+  position: relative;
+}
+
+.campaign-title {
+  color: #00ABDF;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 3.2em;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.campaign-title span {
+  color: black;
+  font-weight: 400;
+}
+
+.campain-left-design {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 21vw;
+}
+
+.campain-right-design {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 21vw;
+}
+
+.campaign-row {
+  margin-top: 95px;
+  width: 1250px;
+  margin: 60px auto;
+}
+
+.campaign-row-2 {
+  margin-top: 75px;
+  width: 1250px;
+  margin: 60px auto;
+}
+
+.campaign-row-3 {
+  margin-top: 75px;
+  width: 1250px;
+  margin: 60px auto;
+}
+
+.campaign-row-4 {
+  margin-top: 75px;
+  width: 1250px;
+  margin: 60px auto;
+}
+
+.campaign-row-5 {
+  margin-top: 75px;
+  width: 1250px;
+  margin: 60px auto;
+}
+
+.campaign-text-box {
+  background: #FFFFFF;
+  border: 3.5px dashed #00ABDF;
+  border-radius: 20px;
+  padding: 45px 30px 20px;
+  margin-top: 90px;
+}
+
+.campaign-textbox-title {
+  color: #00ABDF;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.campaign-textbox-title span {
+  color: black;
+  font-weight: 400;
+}
+
+.campaign-top-head {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: -0.01em;
+  text-transform: capitalize;
+  color: #437FEC;
+  border: 1px solid #437FEC;
+  width: 160px;
+  padding: 8px;
+  border-radius: 14px;
+  text-align: center;
+  margin-top: -67px;
+  background-color: white;
+  margin-bottom: 22px;
+}
+
+.campaign-box-desc {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 32px;
+  color: #101F31;
+}
+
+.campaign-img-5 {
+  margin-top: 30px;
+}
+
+.campaign-left-spiral {
+  position: absolute;
+  top: 517px;
+  left: 29px;
+  width: 3vw;
+}
+
+.right-cube {
+  position: absolute;
+  right: 0;
+  top: 555px;
+  width: 6vw;
+}
+
+.left-cube {
+  position: absolute;
+  left: 0;
+  top: 1037px;
+  width: 6vw;
+}
+
+.campaign-right-spiral {
+  position: absolute;
+  right: 25px;
+  top: 1215px;
+  width: 3vw;
+}
+
+.campaign-left-spiral2 {
+  position: absolute;
+  top: 1610px;
+  left: 29px;
+  width: 3vw;
+}
+
+.left-cube2 {
+  position: absolute;
+  left: 0;
+  top: 2037px;
+  width: 6vw;
+}
+
+.right-cube2 {
+  position: absolute;
+  right: 0;
+  top: 1760px;
+  width: 6vw;
+}
+
+.campaign-left-plant {
+  position: absolute;
+  left: 0;
+  top: 2277px;
+  width: 6vw;
+}
+.moxi-0 {
+    margin-bottom: 200px;
+}
+/*-----// END iHEALTH SOCIAL AND CORPORATE RESPONSIBILITY PAGE CSS //-----*/
+
+/*---------- AI CONSULTING PAGE ------------*/
+.ai-banner-sec {
+  margin-top: 10px;
+}
+
+.ai-banner-desc {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 28px;
+  text-align: center;
+  color: #101F31;
+}
+
+.ai-left-design {
+  position: absolute;
+  top: 395px;
+  width: 22vw;
+  left: 0;
+}
+
+.ai-right-design {
+  position: absolute;
+  top: 395px;
+  width: 22vw;
+  right: 0;
+}
+
+.career-title.ai-service-title.aos-init.aos-animate {
+  border: 2.5px dashed #00ABDF;
+  border-radius: 30px;
+  padding: 20px;
+  width: 900px;
+  margin: 90px auto 0;
+}
+
+.career-title.ai-service-box-title {
+  font-size: 1.5em;
+}
+
+.ai-service-box {
+  border: 2.5px dashed #00ABDF;
+  border-radius: 30px;
+  padding: 25px;
+  text-align: center;
+  height: 290px;
+}
+
+.ai-service-box-desc {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 28px;
+  text-align: center;
+  color: #101F31;
+}
+
+.service-second-textbox {
+  border: 2.5px dashed #00ABDF;
+  border-radius: 20px;
+  padding: 30px 90px;
+  text-align: center;
+  height: 290px;
+}
+
+.why-desc-2 {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 28px;
+  text-align: center;
+  color: #101F31;
+  margin: 0px 200px;
+}
+
+.why-are-we-section {
+  text-align: center;
+  background-image: url("https://onecontentpro.com/ihealthis-final/wp-content/uploads/2023/06/lines.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position-y: 108px;
+  position: relative;
+  margin-top: 100px;
+}
+
+.why-left-img {
+  position: absolute;
+  left: 10px;
+  top: 163px;
+  width: 18vw;
+}
+
+.why-right-img {
+  position: absolute;
+  right: 10px;
+  top: 146px;
+  width: 18vw;
+}
+
+.why-second-box {
+  border: 2.5px dashed #00ABDF;
+  border-radius: 20px;
+  padding: 20px;
+  height: 250px;
+}
+
+.why-boxes-row {
+  width: 897px;
+  margin: 0 auto;
+}
+
+.why-second-desc {
+  text-align: left;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #101F31;
+}
+
+.why-second-box.why-last-box.mt-4 {
+  width: 1030px;
+  margin: 0 auto;
+  margin-top: 0px;
+}
+
+.service-second-left-design {
+  position: absolute;
+  left: 0;
+  width: 15vw;
+  top: 508px;
+}
+
+.service-second-right-design {
+  position: absolute;
+  right: 0;
+  width: 15vw;
+  top: 508px;
+}
+
+.service-second-right-plant {
+  position: absolute;
+  right: 0;
+  top: 1215px;
+  width: 6vw;
+}
+
+.service-second-left-plant {
+  position: absolute;
+  left: 0;
+  top: 1766px;
+  width: 6vw;
+}
+
+.why-vertical-connector {
+  width: 2.3vw;
+  position: absolute;
+  top: 242px;
+  left: 125px;
+}
+
+.why-vertical-connector-2 {
+  width: 2.3vw;
+  position: absolute;
+  top: 242px;
+  right: 125px;
+}
+
+.why-horizontal-connector {
+  width: 4.5vw;
+  position: absolute;
+  top: 655px;
+  left: 505px;
+}
+
+.why-horizontal-connector-2 {
+  width: 4.5vw;
+  position: absolute;
+  top: 655px;
+  right: 505px;
+}
+
+.why-vertical-connector-3 {
+  position: absolute;
+  width: 2.3vw;
+  left: 739px;
+}
+
+.developoment-technology-section {
+  text-align: center;
+  position: relative;
+  margin-top: 100px;
+}
+
+.approach-section {
+  margin-top: 50px;
+}
+
+.approach-desc {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 28px;
+  text-align: center;
+  color: #101F31;
+  margin: 20px;
+}
+
+.approach-curls-left-z {
+    position: absolute;
+    left: 0px;
+    width: 23vw;
+    top: -218px;
+}
+.approach-curls-left {
+  position: absolute;
+  left: 0px;
+  width: 13vw;
+  top: 32px;
+}
+.approach-curls-right-z {
+    position: absolute;
+    right: 0px;
+    width: 23vw;
+    top: -268px;
+}
+.approach-curls-right {
+  position: absolute;
+  right: 0px;
+  width: 13vw;
+  top: 32px;
+}
+
+.approach-textbox {
+  border: 2.5px dashed #00ABDF;
+  border-radius: 20px;
+  padding: 20px;
+  height: 200px;
+  align-items: center;
+}
+
+.approach-text {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 24px;
+  text-align: center;
+  color: #101F31;
+}
+
+.career-title.ai-approach-box-title {
+  font-size: 1.4em;
+  display: none;
+}
+
+.approach-img-box {
+  text-align: center;
+}
+
+.approach-img {
+  width: 70vw;
+}
+
+.approach-row-2 {
+    margin: 0 auto;
+    width: 100%;
+    justify-content: center;
+}
+
+.approach-boxes-row {
+  border: 2.5px dashed #00ABDF;
+  border-radius: 30px;
+  padding: 20px;
+  position: relative;
+  width: 985px;
+  margin: 20px auto 70px;
+}
+
+.appropach-row-2 {
+  margin-right: 90px;
+  border: 2.5px dashed #00ABDF;
+  border-radius: 30px;
+  padding: 20px;
+  position: relative;
+  width: 985px;
+}
+
+.business-desc {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 28px;
+  text-align: center;
+  color: #101F31;
+}
+
+/*---------- END AI CONSULTING PAGE ------------*/
+ /*---------------- MILITARY PAGE --------------*/
+
+
+  .right-design {
+    position: absolute;
+    top: 273px;
+    width: 5vw;
+    right: 26px;
+  }
+
+  .side-plant {
+    position: absolute;
+    top: 477px;
+    width: 10vw;
+  }
+
+  .technology-desc-box {
+    width: 80%;
+  }
+
+  .technology-desc {
+    font-size: 13px;
+  }
+
+  .tv-image {
+    position: absolute;
+    top: -21px;
+    width: 18vw;
+    right: 12px;
+  }
+
+  .block-image {
+    position: absolute;
+    top: -18px;
+    width: 18vw;
+  }
+
+
+  /*--------------- END MILITARY PAGE ----------------*/
+
+/*---------- iHEALTRH DEVOPS PAGE ------------*/
+.devops-portfolio-section {
+  background-image: url("https://onecontentpro.com/ihealthis-final/wp-content/uploads/2023/06/lines.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position-y: 195px;
+  text-align: center;
+  background-position-y: -53px;
+  position: relative;
+  margin-top: 95px;
+  padding-top: 40px;
+}
+
+.protect-img-1.devops-ban-1 {
+  position: absolute;
+  left: 10px;
+  top: -14px;
+  width: 18vw;
+}
+
+.protect-img-2.devops-ban-2.aos-init.aos-animate {
+  position: absolute;
+  right: 10px;
+  top: -14px;
+  width: 18vw;
+}
+
+.dev-platform-desc {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  text-align: center;
+  color: #101F31;
+}
+
+.platform-section {
+  margin-top: 97px;
+}
+
+.career-title.benefit-boxes-title.platform-box-title {
+  font-size: 1.0em;
+  text-align: left;
+}
+
+.platform-textbox {
+  padding: 10px;
+  border-right: 2.5px dashed #437FEC;
+}
+
+.platform-img-box {
+  padding: 30px;
+  text-align: right;
+}
+
+.platform-box {
+  border: 2.5px dashed #437FEC;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 19px 26px 45px rgba(105, 195, 235, 0.12);
+}
+
+.platform-boxes-row {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.platform-img {
+  width: 720px;
+}
+
+.program-textbox {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 28px;
+  color: #101F31;
+  border: 2.5px dashed #69C3EB;
+  border-radius: 30px;
+  padding: 20px 33px;
+  display: flex;
+  align-items: center;
+}
+
+.program-num-img {
+  width: 120px;
+}
+
+.connector {
+    position: absolute;
+    width: 40px;
+    right: -21px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.connector-2 {
+    position: absolute;
+    width: 51px;
+    left: -34px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.program-box .col-md-9 {
+    position: relative;
+}
+.program-left-plant {
+  width: 6vw;
+  position: absolute;
+  top: 324px;
+}
+
+.program-right-plant {
+  width: 6vw;
+  position: absolute;
+  top: 724px;
+  right: 0;
+}
+
+.program-chemical {
+  position: absolute;
+  top: 66px;
+  right: 171px;
+  width: 8vw;
+}
+
+.program-white-ball {
+  position: absolute;
+  top: 66px;
+  left: 191px;
+  width: 8vw;
+}
+
+.program-white-ball-2 {
+  position: absolute;
+  bottom: -36px;
+  right: 280px;
+  width: 8vw;
+}
+
+.career-title.benefit-box-title.challenge-title {
+  font-size: 1.3em;
+  text-align: left;
+  margin: 0;
+}
+
+.challenge-num-img {
+  position: absolute;
+  left: 348px;
+  top: -36px;
+  width: 4.5vw;
+}
+
+.benefit-img-box.challenge-img-box {
+  text-align: center;
+  border-right: 2.5px dashed #2B92F0;
+  height: 100px;
+  display: flex;
+  align-items: center;
+}
+
+.challenge-num-img-2 {
+  position: absolute;
+  left: 918px;
+  top: -36px;
+  width: 4.5vw;
+}
+
+.benefit-img-box.challenge-image {
+  text-align: center;
+  border-right: 2.5px solid #2B92F0;
+}
+
+.challenge-left-design {
+  position: absolute;
+  top: 0;
+  width: 19vw;
+}
+
+.challenge-right-design {
+  position: absolute;
+  top: -19px;
+  width: 18vw;
+  right: 0;
+}
+
+.challenge-cube-left {
+  position: absolute;
+  left: 16px;
+  width: 7vw;
+  bottom: 256px;
+}
+
+.challenge-cube-right {
+  position: absolute;
+  right: 16px;
+  width: 7vw;
+  bottom: 445px;
+}
+
+/*---------- END iHEALTRH DEVOPS PAGE ------------*/
+
+/*---------------- IHEALTH DEVOPS SERVICES PAGE--------------*/
+.devops-banner-sec {
+  position: relative;
+}
+
+.devops-title {
+  color: #00ABDF;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 3em;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.devops-title span {
+  color: black;
+  font-weight: 400;
+
+}
+
+.devops-desc {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  text-align: center;
+  color: #101F31;
+  margin: 20px 160px 10px;
+}
+
+.devops-img-box {
+  text-align: center;
+}
+
+.devopsbanner-img {
+  width: 60vw;
+  margin-top: 30px;
+}
+
+.chemical {
+  position: absolute;
+  left: 91px;
+  top: 400px;
+  width: 6vw;
+}
+
+.devops-right-spiral {
+  position: absolute;
+  right: 103px;
+  width: 3.5vw;
+  top: 382px;
+}
+
+.devops-road-1 {
+  width: 30vw;
+  left: 560px;
+  position: absolute;
+  top: 330px;
+}
+
+.devops-row-1 {
+  position: relative;
+}
+
+.devops-row-2 {
+  position: relative;
+}
+
+.devops-row-3 {
+  position: relative;
+}
+
+
+.devops-road-2 {
+  position: absolute;
+  width: 37vw;
+  top: 320px;
+  left: 565px;
+}
+
+.devops-textbox-desc {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 32px;
+  text-align: center;
+  color: #101F31;
+  background-image: url("https://onecontentpro.com/ihealthis-final/wp-content/uploads/2023/06/dev-box-bg.png");
+  background-size: contain;
+  background-position: center;
+  padding: 56px;
+  background-repeat: no-repeat;
+  object-fit: cover;
+  height: 302px;
+  display: flex;
+  align-items: center;
+}
+
+.row-3-textbox {
+  margin-top: 103px;
+}
+
+.devops-2roads {
+  position: absolute;
+  top: 343px;
+  left: 310px;
+  z-index: -1;
+}
+
+.devops-text-box.devops-box-last {
+  margin-top: 45px;
+}
+
+.blue-left-plant {
+  position: absolute;
+  left: 105px;
+  width: 7vw;
+  top: 813px;
+}
+
+.blue-right-plant {
+  position: absolute;
+  right: 105px;
+  width: 7vw;
+  top: 813px;
+}
+
+/*---------------- END IHEALTH DEVOPS SERVICES PAGE --------------*/
+
+
+/*---------------- CLOUD SUPPORT SERVICES PAGE --------------*/
+.cloud-left-design {
+  position: absolute;
+  top: 725px;
+  width: 22vw;
+  left: 0;
+}
+
+.cloud-right-design {
+  position: absolute;
+  top: 725px;
+  width: 20vw;
+  right: 0;
+}
+
+.cloud-left-spiral {
+  position: absolute;
+  left: 111px;
+  top: 520px;
+  width: 3vw;
+}
+
+.cloud-right-spiral {
+  position: absolute;
+  right: 111px;
+  top: 363px;
+  width: 3vw;
+}
+
+.headings-section {
+  padding: 50px 0;
+  position: relative
+}
+
+.heading-box-desc {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 32px;
+  text-align: center;
+  color: #101F31;
+  margin: 20px 250px 20px;
+}
+
+.heading-left-spiral {
+  position: absolute;
+  left: 75px;
+  top: 295px;
+  width: 3vw;
+}
+
+.heading-right-spiral {
+  position: absolute;
+  right: 75px;
+  top: 395px;
+  width: 3vw;
+}
+
+.heading-feature-title {
+  color: #00ABDF;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 2.1em;
+  margin-top: 30px;
+  text-transform: capitalize;
+}
+
+.heading-feature-title span {
+  color: black;
+  font-weight: 400;
+}
+
+.heading-feature-box-desc {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 30px;
+  color: #101F31;
+}
+
+.heading-img {
+  width: 28vw;
+}
+
+.heading-third-sec-box {
+  padding: 30px;
+}
+
+.heading-double {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 30px;
+  display: flex;
+  align-items: center;
+  letter-spacing: -0.03em;
+  text-transform: capitalize;
+  color: #101F31;
+  text-align: center;
+}
+
+.heading-double-desc {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 30px;
+  display: flex;
+  align-items: center;
+  letter-spacing: -0.03em;
+  color: #101F31;
+}
+
+.head-double-box {
+  padding: 30px;
+  border: 2.5px dashed #00AFD8;
+  border-radius: 28px;
+  height: 195px;
+  align-items: center;
+  display: flex;
+}
+
+.heading-double-text-row {
+  position: relative;
+}
+
+.two-circle {
+  position: absolute;
+  width: 4.5vw;
+  margin: 0 auto;
+  display: block;
+  left: -391px;
+  right: 0;
+}
+
+.heading-double-text-row {
+  position: relative;
+  width: 1170px;
+  margin: 20px auto;
+}
+
+.heading-partner-row {
+  width: 1170px;
+  margin: 70px auto;
+}
+
+.heading-circle-title {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 32px;
+  text-align: center;
+  text-transform: capitalize;
+  color: #69C3EB;
+}
+
+.heading-circle-desc {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 23px;
+  text-align: center;
+  color: #101F31;
+}
+
+.heading-circle-box {
+  border: 2.493px dashed #437FEC;
+  border-radius: 9.95283px;
+  text-align: center;
+  padding: 30px;
+  margin: 40px 0;
+  height: 260px;
+}
+
+.heading-circle-img {
+  margin-top: -75px;
+  margin-bottom: 20px;
+}
+
+.heading-boxes-row {
+  margin: 60px 0;
+  position: relative;
+}
+
+.chart-img-row {
+  margin: 90px 0;
+}
+
+.chart-img-box {
+  text-align: center;
+}
+
+.chart-img {
+  width: 78vw;
+}
+
+.partnership-sec-desc {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 36px;
+  text-align: center;
+  color: #101F31;
+  margin: 20px auto;
+}
+
+.partner-text-box {
+    background: linear-gradient(270deg, rgba(0, 171, 223, 0) -54%, #00abdf2e 99.44%);
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    border-left: 3px solid #00ABDF61;
+}
+
+.partner-text {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 30px;
+  color: #101F31;
+  margin: 0;
+}
+
+.partner-sub-title {
+  color: #00ABDF;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 1.5em;
+  text-align: center;
+  margin-top: 60px;
+}
+
+.partner-sub-title span {
+  color: black;
+  font-weight: 400;
+}
+
+.apart-text-box {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.blue-tick {
+  margin-right: 8px;
+  width: 15px;
+}
+
+.grow-title {
+  color: #00ABDF;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 3em;
+  margin-top: 60px;
+}
+
+.grow-title span {
+  color: black;
+  font-weight: 400;
+}
+
+.grow-desc {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 30px;
+  color: #101F31;
+}
+
+.grow-line {
+  border: 2px solid #00ABDF;
+  width: 340px;
+}
+
+.adver-text {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  letter-spacing: -0.03em;
+  text-transform: capitalize;
+  color: #101F31;
+}
+
+.contact-text {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 46px;
+  letter-spacing: -0.03em;
+  text-transform: capitalize;
+  color: #101F31;
+  margin-bottom: -15px;
+}
+
+.contact-subtext {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 46px;
+  letter-spacing: -0.03em;
+  text-transform: capitalize;
+  color: #00ABDF;
+}
+
+.heading-left-plant {
+  position: absolute;
+  left: 0;
+  top: 1704px;
+  width: 7vw;
+}
+
+.heading-left-plant2 {
+  position: absolute;
+  left: 0;
+  top: 1089px;
+  width: 7vw;
+}
+
+.heading-left-plant4 {
+  position: absolute;
+  left: 0;
+  top: 370px;
+  width: 7vw;
+}
+
+.heading-left-plant3 {
+  position: absolute;
+  left: 0;
+  top: 570px;
+  width: 7vw;
+}
+
+.heading-left-plant4 {
+  position: absolute;
+  left: 0;
+  top: -30px;
+  width: 7vw;
+}
+
+.heading-right-plant2 {
+  position: absolute;
+  right: 0;
+  top: 1300px;
+  width: 7vw;
+}
+
+.heading-right-plant3 {
+  position: absolute;
+  right: 0;
+  top: 622px;
+  width: 7vw;
+}
+
+.heading-right-plant4 {
+  position: absolute;
+  right: 0;
+  top: -50px;
+  width: 7vw;
+}
+
+.heading-right-plant {
+  position: absolute;
+  right: 0;
+  top: 2065px;
+  width: 7vw;
+}
+
+/*---------------- END CLOUD SUPPORT SERVICES PAGE --------------*/
+
+/*-- // MOBILE CSS // --*/
+/*----------- // MOBILE CSS // -----------*/
+@media only screen and (max-width:576px) {
+.page-id-1734 .commit-dotted-line {
+    position: absolute;
+    top: -56px;
+    left: 175px;
+}
+.page-id-1456 .heading-circle-box {
+    border: 2px dashed #437FEC!important;
+}
+#search_keywords {
+    border: 2px solid #00ABDF;
+    border-radius: 27px;
+    font-family: 'Poppins';
+    font-size: 13px;
+    padding: 10px 20px;
+    margin: 0 20px;
+    width: 100%;
+    margin-left: 0px;
+    margin-bottom: 10px;
+}
+ul.job_listings li.job_listing a .meta {
+    text-align: center!important;
+    padding-left: 0px!important;
+}
+.location {
+
+    padding-left: 0px !important;
+    text-align: center!important;
+}
+#search_location {
+    width: 100%;
+}
+ul.job_listings li.job_listing a div.position {
+    width: 100%!important;
+    padding-left: 0px!important;
+}
+.search_jobs {
+    display: block!important;
+    
+}
+
+	.item .banner-box > .row {
+    flex-direction: column-reverse;
+}
+	.devops-banner-sec .col-md-12 {
+    flex-direction: column-reverse;
+    display: flex;
+}
+
+.chemical {
+    top: 0;
+    left: 50px;
+}
+.connector,.connector-2 {
+    display: none;
+}
+.devops-right-spiral {
+    right: 20px;
+    top: 0;
+}
+.col-md-3 .logo-box {
+    text-align: left;
+}
+.banner-img {
+    margin-left: -40px;
+    max-width: initial;
+    width: 115% !important;
+}
+  .military-banner-sec .col-md-12 {
+    display: flex;
+    flex-direction: column-reverse;
+}
+	.military-banner-sec {
+    background-size: contain;
+    background-position: top;
+}
+  .navbar-nav.me-auto.ms-auto.mb-2.mb-lg-0 {
+    margin-top: 30px;
+  }
+
+  .navbar-brand {
+    width: 159px;
+  }
+
+  .nav-btn {
+    background-color: #00ABDF;
+    color: white;
+    text-decoration: none;
+    font-family: 'Poppins';
+    font-size: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    display: block;
+    width: 47%;
+    text-align: center;
+    cursor: pointer;
+  }
+
+  .banner-title {
+    color: #00ABDF;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 28px;
+    margin-bottom: 30px;
+  }
+
+  .banner-box {
+    padding: 0 20px;
+  }
+
+  .banner-section {
+    padding: 0;
+  }
+
+  .follow-box {
+    display: none;
+  }
+
+  .banner-btn-1 {
+    margin-bottom: 20px;
+  }
+
+  .Logos.Section {
+    padding: 50px 20px;
+  }
+
+  .capabilities-sec {
+    padding: 50px 1px;
+  }
+
+  .capa-title {
+    font-size: 30px;
+  }
+
+  .capa-desc {
+    font-size: 13px;
+  }
+
+  .counter-box.counter-1 {
+    text-align: center;
+    border-right: none;
+    margin-bottom: 20px;
+  }
+
+  .row.counter-row {
+    width: 80%;
+  }
+
+  .why-img {
+    width: 100%;
+  }
+
+  .row.why-row {
+    flex-direction: column-reverse;
+  }
+
+  .why-section {
+    padding: 25px 20px;
+  }
+
+  .why-desc {
+    font-family: 'Poppins';
+    line-height: 24px;
+    font-size: 13px;
+    margin: 22px 0;
+    padding-right: 40px;
+  }
+
+  .video-section {
+    margin-top: 110px;
+    padding: 0 20px;
+  }
+
+  .video-title {
+    font-size: 30px;
+  }
+
+  .video-desc {
+    font-family: 'Poppins';
+    line-height: 24px;
+    font-size: 13px;
+    margin: 30px 0;
+  }
+
+  .testimonial-section {
+    background-image: url(https://onecontentpro.com/ihealthis-final/wp-content/uploads/2023/06/testimonial-bg-2.png);
+    background-size: cover;
+    margin-top: 112px;
+    padding: 190px 20px 0 20px;
+    background-position: center;
+  }
+
+  .testi-box {
+    width: 100%;
+    margin: 0 auto;
+    background-color: white;
+    padding: 32px;
+    border-radius: 15px;
+  }
+
+  .testi-title {
+    font-size: 30px;
+  }
+
+  .testi-review {
+    font-family: 'Poppins';
+    font-size: 12px;
+    text-align: center;
+  }
+
+  .news-section {
+    padding: 20px 12px 0 20px;
+  }
+
+  .ft-section {
+    padding: 50px 10px 0px 10px;
+    background-image: url(https://onecontentpro.com/ihealthis-final/wp-content/uploads/2023/06/footer-bg.png);
+    background-size: cover;
+    background-position: center;
+  }
+
+  .ft-logo-box {
+    border-right: none;
+    height: 240px;
+  }
+
+  .ft-list {
+    font-size: 11px;
+    line-height: 30px;
+    font-family: 'Poppins';
+    margin: 0;
+  }
+
+  .ft-link-box {
+    border-right: none;
+    height: 353px;
+  }
+
+  .copyright-row {
+    border-top: 1px solid #00ABDF;
+    margin-top: 30px;
+    padding: 20px 95px;
+    padding: 20px 10px 5px;
+  }
+
+  .copyright-text {
+    text-align: center;
+  }
+
+  .policy-text {
+    text-align: center;
+    float: none;
+  }
+
+  .ft-box-last {
+    padding: 10px;
+    margin-top: -115px;
+  }
+
+  .first-box:before {
+    display: none;
+  }
+
+  .main-section h1 {
+    font-size: 2em;
+  }
+
+  .main-box-wrapper {
+    margin: 20px 0;
+  }
+
+  .second-box:before {
+    display: none;
+  }
+
+  .main-box {
+    margin: 0 0 20px;
+  }
+
+  .lab-item {
+    flex: 0 0 100%;
+  }
+
+  .lab-item.top-space {
+    margin: 0;
+  }
+
+  .lab-tube {
+    left: 20px;
+    width: 100px;
+    top: 0;
+  }
+
+  .microscope {
+    right: 20px;
+    width: 70px;
+    top: 0;
+  }
+
+  .big-text {
+    margin: 0;
+  }
+
+  .ihealth-bottom {
+    max-width: 228px;
+    right: 20px;
+    bottom: -100px;
+  }
+
+  .ihealth-item.min-height {
+    min-height: auto;
+  }
+
+  .line {
+    display: none;
+  }
+
+  .line-right {
+    display: none;
+  }
+
+  .mobile-icon {
+    display: flex;
+  }
+
+  .ihealth-digital-icon-image {
+    display: none;
+  }
+
+  .box-arrow {
+    display: none;
+  }
+
+  .lab-item.text-first {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+
+  .w-75 {
+    width: 100% !important;
+  }
+
+  /*---------------- MILITARY PAGE --------------*/
+  .military-title {
+    color: #00ABDF;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 30px;
+  }
+
+  .military-first-row {
+    flex-direction: column-reverse;
+  }
+
+  .military-text-box {
+    margin: auto 0;
+    height: 520px;
+    margin-top: 60px;
+    border: 2px solid #00ABDF;
+    border-style: dashed;
+    padding: 0px 36px 15px;
+    border-radius: 19px;
+    height: 510px;
+    width: 100%;
+  }
+
+  .military-img {
+    width: 90%;
+    margin: 20px 0;
+  }
+
+  .growth-title {
+    font-size: 30px;
+  }
+
+  .growth-desc {
+    font-size: 14px;
+    padding: 0 25px;
+  }
+
+  .growth-subhead {
+    font-size: 16px;
+    line-height: 25px;
+  }
+
+  .growth-box {
+    background-image: url(https://onecontentpro.com/ihealthis-final/wp-content/uploads/2023/06/growth-box-bg.png);
+    background-size: cover;
+    text-align: center;
+    margin: 50px 0 35px;
+    background-repeat: no-repeat;
+    padding: 0 15px;
+    height: 246px;
+    width: 100%;
+}
+
+  .growth-box-desc {
+    font-size: 11.5px;
+    line-height: 24px;
+    margin: 0 3px -2px;
+    height: 100px;
+  }
+
+  .growth-btn {
+    padding: 7px 30px;
+    font-size: 11px;
+    letter-spacing: 2px;
+    transition: .5s;
+  }
+
+  .growth-box-title {
+    font-size: 18px;
+    text-align: center;
+    margin-top: 24px;
+  }
+
+  .growth-img {
+    margin-top: -50px;
+    width: 70px;
+  }
+
+  .technology-title {
+    font-size: 29px;
+    margin-top: 45px;
+    margin-bottom: 40px;
+  }
+
+  .veteran-btn {
+    font-size: 12px;
+  }
+
+  .right-design {
+    position: absolute;
+    top: 273px;
+    width: 5vw;
+    right: 26px;
+  }
+
+  .side-plant {
+    position: absolute;
+    top: 477px;
+    width: 10vw;
+  }
+
+  .technology-desc-box {
+    width: 80%;
+  }
+
+  .technology-desc {
+    font-size: 13px;
+  }
+
+  .right-side-plant {
+    position: absolute;
+    top: 1160px;
+    width: 10vw;
+    right: 0;
+  }
+
+  .left-design {
+    position: absolute;
+    top: 1090px;
+    width: 5vw;
+    left: 10px;
+  }
+
+  .tv-image {
+    position: absolute;
+    top: -21px;
+    width: 18vw;
+    right: 12px;
+  }
+
+  .block-image {
+    position: absolute;
+    top: -18px;
+    width: 18vw;
+  }
+
+  .technology-img {
+    width: 90%;
+    margin-top: 65px;
+  }
+
+  /*--------------- END MILITARY PAGE ----------------*/
+
+
+  /*----------- PROCUREMENT VEHICLE PAGE ------------*/
+  .pro-title {
+    font-size: 30px;
+    margin-top: 45px;
+  }
+
+  .pro-right-spiral {
+    position: absolute;
+    right: 38px;
+    top: 220px;
+    width: 4vw;
+  }
+
+  .pro-second-sec-row {
+    margin: 80px 15px;
+  }
+
+  .pro-second-sec-box {
+    text-align: center;
+  }
+
+  .sec-box-2 {
+    border-right: none;
+  }
+
+  .sec-box-3 {
+    border-right: none;
+  }
+
+  .gsa-left-spiral {
+    position: absolute;
+    top: -28px;
+    left: 28px;
+    width: 6vw;
+  }
+
+  .gsa-right-plant {
+    position: absolute;
+    top: -50px;
+    right: 0;
+    width: 11vw;
+  }
+
+  .pro-details-sec {
+    padding: 0 20px;
+    position: relative;
+	  background-size: 100px;
+  }
+
+  .pro-detail-title {
+    font-size: 30px;
+    margin-top: 20px;
+    text-align: center;
+  }
+
+  .pro-detail-img-box {
+    text-align: center;
+  }
+
+  .pro-detail-img {
+    float: none;
+    width: 60%;
+  }
+
+  .pro-detail-desc {
+    font-size: 14px;
+  }
+
+  .gsa-right-spiral {
+    position: absolute;
+    top: 479px;
+    right: 23px;
+    width: 5vw;
+  }
+
+  .gsa-left-plant {
+    position: absolute;
+    top: 521px;
+    left: 0;
+    width: 9vw;
+  }
+
+  .last-box {
+    margin: 60px 0 -31px;
+  }
+
+  .download-btn {
+    margin: 65px auto 30px;
+  }
+
+  /*----------- END PROCUREMENT VEHICLE PAGE ------------*/
+
+
+
+  /*--------- iHEALTH SOCIAL AND CORPORATE PAGE ---------*/
+  .health-social-title {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 25px;
+  }
+
+  .left-side-ihealth {
+    position: absolute;
+    top: 273px;
+    width: 21vw;
+    left: 20px;
+  }
+
+  .right-side-ihealth {
+    position: absolute;
+    top: 265px;
+    width: 22vw;
+    right: -13px;
+  }
+
+  .ihealth-social-desc-box {
+    border: 3.5px dashed #00ABDF;
+    border-radius: 30px;
+    padding: 20px 15px;
+    text-align: center;
+    width: 85%;
+    margin: 0 auto;
+  }
+
+  .ihealth-social-desc {
+    font-size: 12px;
+    line-height: 24px;
+  }
+
+  .ihealth-left-plant {
+    position: absolute;
+    top: 80px;
+    width: 13vw;
+  }
+
+  .ihealth-right-spiral {
+    position: absolute;
+    right: 17px;
+    width: 6.5vw;
+  }
+
+  .commit-title {
+    font-size: 1.5em;
+    text-align: center;
+    margin-top: 30px;
+    padding: 0 20px;
+  }
+
+  .commit-left-design {
+    width: 23vw;
+    position: absolute;
+    left: 0;
+    top: -26px;
+  }
+
+  .commit-right-design {
+    width: 20vw;
+    position: absolute;
+    right: 0;
+    top: -32px;
+  }
+
+  .commit-boxes-row {
+    margin-top: 10px;
+  }
+
+  .commit-num-img {
+    width: 20vw;
+    margin: -242px 0 0;
+  }
+
+  .commit-box {
+    margin-bottom: 30px;
+  }
+.moxi-0 {
+    margin-bottom: 150px;
+}
+  .commit-box.commit-box-2 {
+    margin-top: 0px;
+  }
+
+  .commit-desc {
+    margin: 15px 25px 140px;
+  }
+
+  .commit-head {
+    width: 80%;
+    margin: -80px auto 0;
+    font-size: 13px;
+  }
+
+  .commit-boxes-row-last {
+    margin-top: 0px;
+  }
+
+  .commit-dotted-line {
+    position: absolute;
+    top: -51px;
+    left: 175px;
+    width: 3vw;
+  }
+
+  .commit-box-10 .commit-dotted-line {
+    position: absolute;
+    top: -51px;
+    left: 151px;
+  }
+
+  .campaign-section {
+    margin-top: 0px;
+    position: relative;
+  }
+
+  .campain-left-design {
+    position: absolute;
+    top: -50px;
+    left: 0;
+    width: 30vw;
+  }
+
+  .campain-right-design {
+    position: absolute;
+    top: -50px;
+    right: 0;
+    width: 30vw;
+  }
+
+  .campaign-title {
+    font-size: 1.6em;
+    text-align: center;
+    margin-top: 30px;
+  }
+
+  .campaign-row {
+    width: 100%;
+    margin: 60px auto;
+  }
+
+  .campaign-text-box {
+    margin-top: 0px;
+  }
+
+  .campaign-box-desc {
+    font-size: 13px;
+    line-height: 25px;
+  }
+
+  .campaign-top-head {
+    font-size: 12px;
+    width: 137px;
+    margin-top: -67px;
+  }
+
+  .campaign-img-box {
+    text-align: center;
+  }
+
+  .campaign-img {
+    width: 85%;
+  }
+
+  .right-cube {
+    position: absolute;
+    right: 0;
+    top: 152px;
+    width: 12vw;
+  }
+
+  .campaign-row-2 {
+    margin-top: 75px;
+    width: 100%;
+    margin: 60px auto;
+    flex-direction: column-reverse;
+  }
+
+  .campaign-img {
+    width: 100%;
+    margin: 30px 0 -30px;
+  }
+
+  .campaign-left-spiral {
+    position: absolute;
+    top: 642px;
+    left: 29px;
+    width: 6vw;
+  }
+
+  .campaign-right-spiral {
+    position: absolute;
+    right: 25px;
+    top: 1330px;
+    width: 6vw;
+  }
+
+  .campaign-row-3 {
+    margin-top: 75px;
+    width: 100%;
+    margin: 60px auto;
+  }
+
+  .campaign-left-spiral2 {
+    display: none;
+  }
+
+  .right-cube2 {
+    position: absolute;
+    right: 0;
+    top: 2046px;
+    width: 8vw;
+  }
+
+  .left-cube2 {
+    position: absolute;
+    left: 0;
+    top: 2047px;
+    width: 8vw;
+  }
+
+  .campaign-row-4 {
+    margin-top: 75px;
+    width: 100%;
+    margin: 60px auto;
+    flex-direction: column-reverse;
+  }
+
+  .campaign-row-5 {
+    margin-top: 75px;
+    width: 100%;
+    margin: 60px auto;
+  }
+
+  /*---------- iHEALTH SOCIAL AND CORPORATE PAGE ----------*/
+
+
+
+  /*---------- CAREER AND WORKING IHEALTH PAGE ------------*/
+  .career-title {
+    color: #00ABDF;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 1.5em;
+    text-align: center!important;
+    margin-top: 60px;
+  }
+
+  .career-second-text-box {
+    border: 3.5px dashed #00ABDF;
+    border-radius: 30px;
+    padding: 20px 40px;
+    margin-top: 40px;
+    text-align: center;
+  }
+
+  .career-bottom-left-design {
+    display: none;
+  }
+
+  .career-bottom-right-design {
+    display: none;
+  }
+
+  .career-second-sec {
+    position: relative;
+    padding: 20px 20px 50px;
+  }
+
+  .position-sec {
+    position: relative;
+    padding: 0 20px;
+  }
+
+  .form-title {
+    font-size: 2em;
+    margin-top: 30px;
+  }
+
+  .form-check {
+    display: block;
+    width: 100%;
+    margin: 20px auto;
+  }
+
+  .checkbox-div {
+    margin-left: 50px;
+    font-family: 'Poppins';
+    font-size: 15px;
+    margin-bottom: 10px;
+  }
+
+  #jobs {
+    margin-bottom: 10px;
+  }
+
+  .position-box {
+    border: 2.5px dashed #00ABDF;
+    border-radius: 30px;
+    padding: 20px 30px;
+  }
+
+  .position-left-spiral {
+    position: absolute;
+    top: 951px;
+    left: 10.9px;
+    width: 3vw;
+  }
+
+  .positions {
+    border: 2.5px dashed #00ABDF;
+    border-radius: 30px;
+    padding: 40px 40px;
+    margin-top: 40px;
+  }
+
+  .position-img {
+    width: 50%;
+    margin-bottom: 10px;
+  }
+
+  .position-title {
+    font-size: 20px;
+    line-height: 30px;
+  }
+
+  .location {
+    font-size: 13px;
+  }
+
+  .perk-img-box {
+    border-radius: 30px;
+    padding: 40px;
+    width: 91%;
+    margin: 60px auto 50px;
+  }
+
+  .perk-title-row {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  .perk-title {
+    font-size: 14px;
+  }
+
+  .list-title a {
+    font-size: 14px;
+    float: none;
+  }
+
+  .image-right-spiral {
+    position: absolute;
+    right: 13px;
+    top: 426px;
+    width: 4vw;
+  }
+
+  .perk-btn {
+    font-size: 13px;
+  }
+
+  .feature-sec {
+    position: relative;
+    padding: 0 10px;
+  }
+
+  .feature-desc {
+    font-size: 14px;
+    line-height: 30px;
+  }
+
+  .feature-row-2 {
+    flex-direction: column-reverse;
+    margin-top: 30px;
+  }
+
+  .feature-row-3 {
+    margin-top: 30px;
+  }
+
+  .feature-row-4 {
+    flex-direction: column-reverse;
+    margin-top: 30px;
+  }
+
+  .career-video-title {
+    font-size: 1.7em;
+    margin-top: 30px;
+  }
+
+  .career-video-right-spiral {
+    position: absolute;
+    right: 19px;
+    top: -27px;
+    width: 5vw;
+  }
+
+  .career-video-desc {
+    margin: 30px 20px;
+    font-size: 14px;
+  }
+
+  .career-video-left-spiral {
+    position: absolute;
+    left: 16px;
+    top: 509px;
+    width: 4vw;
+  }
+
+  .career-video-right-plant2 {
+    position: absolute;
+    right: 0;
+    top: 747px;
+    width: 12vw;
+  }
+
+
+  /*---------- END CAREER AND WORKING IHEALTH PAGE ------------*/
+
+
+
+  /*---------- CLOUD SUPPORT SERVICE PAGE ------------*/
+  .heading-box-desc {
+    margin: 20px 10px 20px;
+  }
+
+  .heading-right-spiral {
+    display: none;
+  }
+
+  .heading-left-spiral {
+    display: none;
+  }
+
+  .heading-feature-title {
+    font-size: 1.5em;
+  }
+
+  .heading-third-sec-box {
+    padding: 10px;
+  }
+
+  .heading-img {
+    width: 45vw;
+  }
+
+  .heading-row-2.align-items-center {
+    flex-direction: column-reverse;
+  }
+
+  .headings-section {
+    padding: 20px 0;
+    position: relative;
+  }
+
+  .heading-double-text-row {
+    width: 100%;
+  }
+
+  .head-double-box {
+    height: auto;
+    margin-bottom: 10px;
+  }
+
+  .two-circle {
+    display: none;
+  }
+
+  .heading-partner-row {
+    width: 100%;
+    margin: 70px auto;
+  }
+
+  .heading-partner-img-box {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .heading-circle-box {
+    border: 2.493px dashed #437FEC;
+    border-radius: 9.95283px;
+    text-align: center;
+    padding: 30px;
+    margin-top: 40px;
+    height: 260px;
+    margin-bottom: 20px;
+  }
+
+  .heading-circle-desc {
+    font-size: 13px;
+  }
+
+  .heading-circle-title {
+    font-size: 18px;
+  }
+
+  .heading-circle-box {
+    margin-top: 20px;
+    height: 310px;
+    margin-bottom: 50px;
+  }
+
+  .heading-boxes-row {
+    margin: 60px 0 0;
+    position: relative;
+  }
+
+  .chart-img-row {
+    margin: 40px 0;
+  }
+
+  .partnership-sec-desc {
+    font-size: 14px;
+    line-height: 25px;
+  }
+
+  .partner-text-box {
+    text-align: center;
+  }
+
+  .grow-row {
+    padding: 0 10px;
+  }
+
+  .grow-title {
+    font-size: 2em;
+    margin-top: 60px;
+    text-align: center;
+  }
+
+  .grow-desc {
+    font-size: 14px;
+    line-height: 30px;
+    text-align: center;
+  }
+
+  .adver-text {
+    text-align: center;
+  }
+
+  .contact-textbox {
+    text-align: center;
+  }
+
+  .partnership-section {
+    margin-top: -70px;
+  }
+
+  .partner-text {
+    text-align: center;
+  }
+
+  /*---------- END CLOUD SUPPORT SERVICE PAGE ------------*/
+
+
+  /*---------- ZERO TRUST SERVICE PAGE ------------*/
+  .heading-box-desc.zero-desc {
+    margin: 20px 10px 20px;
+  }
+
+  .zero-process-box {
+    border: 2.5px dashed #00ABDF;
+    border-radius: 30px;
+    padding: 20px;
+    margin-bottom: 10px;
+  }
+
+  .benefit-boxes-row {
+    width: 100%;
+    margin: 20px auto 30px;
+  }
+
+  .benefit-num-img {
+    position: absolute;
+    left: 7px;
+    top: -23px;
+    width: 13.5vw;
+  }
+
+  .benefit-img-box {
+    text-align: center;
+    border-right: 0;
+  }
+
+  .benefit-textbox {
+    text-align: center;
+    margin-top: -30px;
+  }
+
+  .choose-img-box {
+    margin: 30px 0;
+  }
+
+  .pillars-row {
+    margin-top: -20px;
+  }
+
+  .zero-pillar-desc {
+    font-size: 14px;
+    line-height: 20px;
+    margin: 40px 0;
+  }
+
+  .zero-pillar-box {
+    background-image: none;
+    background-size: contain;
+    border: 2.493px dashed #437FEC;
+    height: 215px;
+    background-repeat: no-repeat;
+  }
+
+  .zero-pillar-img {
+    width: 75px;
+    margin-bottom: 19px;
+  }
+
+  .benefit-boxes-title {
+    margin-bottom: 30px;
+    margin-top: -20px;
+  }
+
+  .zero-benefits-row {
+    margin-top: 100px;
+    padding: 0 10px;
+  }
+
+  .zero-process-boxes-row {
+    padding: 0 10px;
+  }
+
+  /*---------- END ZERO TRUST SERVICE PAGE ------------*/
+
+
+
+  /*---------- CYBER SECURITY SERVICE PAGE ------------*/
+  .percent-box {
+    border: 2.5px dashed #00ABDF;
+    border-radius: 30px;
+    padding: 20px 20px;
+    text-align: center;
+    margin-top: 10px;
+  }
+
+  .career-title.cyber-point-title {
+    font-size: 1.7em;
+    margin-top: 20px;
+  }
+
+  .career-title.point-box-title {
+    margin-top: 10px;
+  }
+
+  .zero-textbox-desc {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 24px;
+    text-align: center;
+    color: #101F31;
+  }
+
+  .ai-row {
+    flex-direction: column-reverse;
+  }
+
+  .cyber-point-box-2 {
+    margin-top: 0px;
+  }
+
+  .choose-box {
+    height: 190px;
+    margin-bottom: 64px;
+  }
+
+  .choose-box-title {
+    padding: 7px 20px;
+    text-align: center;
+    width: 260px;
+    margin: -40px auto 20px;
+    font-size: 14px;
+  }
+
+  .choose-box.choose-box-3 {
+    width: 100%;
+    margin: 15px auto 0;
+  }
+
+  .secure-title-box {
+    padding: 0px 30px 70px;
+  }
+
+  .secure-desc {
+    font-size: 14px;
+    line-height: 28px;
+    margin: 20px;
+  }
+
+  .secure-btn {
+    font-size: 14px;
+    line-height: 15px;
+    width: 100%;
+    display: block;
+  }
+
+  .cyber-benefit-img-2 {
+    position: absolute;
+    right: 4px;
+    top: -19px;
+    width: 13.5vw;
+  }
+
+  .cyber-benefit-img-box {
+    text-align: center;
+    border-left: none;
+  }
+
+  .cyber-benefit-textbox {
+    text-align: center;
+  }
+
+  .cyber-right-spiral {
+    position: absolute;
+    top: 43px;
+    right: 26px;
+    width: 4vw;
+  }
+
+  .cyber-left-spiral {
+    position: absolute;
+    top: 46px;
+    left: 24px;
+    width: 4vw;
+  }
+
+  .risk-textbox {
+    border: 2px solid #69C3EB;
+    border-radius: 130.757px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .risk-boxes-row-2 {
+    width: 100%;
+    margin: 0;
+  }
+
+  .risk-text {
+    font-size: 12px;
+    margin-left: 10px;
+    margin-top: 12px;
+  }
+
+  .risk-textbox-last {
+    margin: 0;
+  }
+
+  .protect-img-1 {
+    position: absolute;
+    left: 10px;
+    top: 198px;
+    width: 21vw;
+  }
+
+  .protect-img-2 {
+    position: absolute;
+    right: 10px;
+    top: 198px;
+    width: 21vw;
+  }
+
+  .main-box.life-cycle-main-box {
+    margin-bottom: 30px;
+  }
+
+  .career-title.life-cycle-title {
+    padding: 10px 0;
+    width: 100%;
+    margin: -80px auto 20px auto;
+  }
+
+  .life-boxes-wrapper {
+    margin: 50px 0 0;
+  }
+
+  .life-cycle-number {
+    position: absolute;
+    left: 8px;
+    top: -27px;
+    width: 36px;
+  }
+
+  .career-title.life-cycle-title {
+    font-size: 0.9em;
+  }
+
+  .cyber-plant {
+    position: absolute;
+    left: 166px;
+    bottom: 232px;
+    width: 9vw;
+  }
+
+  .main-box.life-cycle-main-box.last-box {
+    width: 100%;
+    margin: -20px auto 20px;
+  }
+
+  .cyber-left-design {
+    position: absolute;
+    left: 0;
+    bottom: -87px;
+    width: 20vw;
+  }
+
+  .cyber-right-design {
+    position: absolute;
+    right: 0;
+    bottom: -87px;
+    width: 20vw;
+  }
+
+  /*---------- END CYBER SECURITY SERVICE PAGE ------------*/
+
+  /*---------- IT MANAGEMENT PAGE ------------*/
+  .it-boxes-row-1 {
+    width: 100%;
+  }
+
+  .it-boxes-row-2 {
+	  flex-direction: column-reverse;
+    width: 100%;
+  }
+
+  .it-boxes-row-3 {
+    
+    width: 100%;
+  }
+
+  .it-boxes-row-4 {
+	  flex-direction: column-reverse;
+    width: 100%;
+  }
+
+  .it-desc-box {
+    border: 2.5px dashed #00AFD8;
+    padding: 30px 30px;
+    border-radius: 30px;
+    height: 100%;
+	    margin: 0 0 20px;
+  }
+	.it-box-connector-horizontal,.it-box-connector-horizontal-2 {
+    display: none;
+}
+
+.it-box-connector-vertical {
+    width: 11px;
+    bottom: -11px;
+}
+  .it-img-box {
+    text-align: center;
+    background: #FFFFFF;
+    border: 2.5px dashed #00AFD8;
+    padding: 30px 20px;
+    border-radius: 30px;
+    width: 100%;
+	margin: 0 0 20px;
+  }
+
+  .it-second-section {
+    margin-top: 30px !important;
+    padding: 0 10px;
+  }
+
+  .it-benefit-list li {
+    font-size: 11px;
+  }
+
+  .it-second-desc {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: -0.03em;
+    text-transform: capitalize;
+    color: #101F31;
+    text-align: center;
+  }
+
+  .it-service-sec {
+    margin-top: 40px;
+  }
+
+  .it-benefit-row {
+    display: block;
+  }
+
+  .choose-health-main-img-box {
+    display: none;
+  }
+
+  .it-benefit-img-box {
+    text-align: center;
+  }
+
+  .it-benefit-num-img {
+    width: 60px;
+  }
+
+  .career-title.it-benefit-title {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 1.5em;
+  }
+
+  .it-benefit-box-desc {
+    font-size: 13px;
+    line-height: 24px;
+    text-align: center;
+  }
+
+  .career-title.it-benefit-title-left {
+    text-align: center;
+    margin-top: 30px;
+    text-transform: capitalize;
+    font-size: 1.5em;
+  }
+
+  .it-benefit-box-desc-left {
+    text-align: center;
+    color: #101F31;
+  }
+
+  .it-choose-health-section.position-relative {
+    padding: 0 10px;
+  }
+
+  .it-service-img-box-1 {
+    text-align: center;
+  }
+
+  .service-num-img {
+    width: 22vw;
+    margin-right: 0px;
+  }
+
+  .service-desc-box-1 {
+    text-align: center;
+  }
+
+  .career-title.point-box-title.service-title {
+    text-align: center;
+    font-size: 1.5em !important;
+  }
+
+  .service-num-img-right {
+    width: 22vw;
+    margin-left: 0px;
+  }
+
+  .it-service-img-box-2 {
+    text-align: center;
+  }
+
+  .service-row-2 {
+    flex-direction: column-reverse;
+  }
+
+  .service-row-4 {
+    flex-direction: column-reverse;
+  }
+
+  .service-row-6 {
+    flex-direction: column-reverse;
+  }
+
+  .service-desc-box-2 {
+    text-align: center;
+  }
+
+  .career-title.point-box-title.service-title-right {
+    text-align: center;
+  }
+
+  .service-right-curl {
+    position: absolute;
+    right: 0;
+    bottom: -32px;
+    width: 22vw;
+  }
+
+  .step-curls-left {
+    position: absolute;
+    left: 0;
+    top: -32px;
+    width: 22vw;
+  }
+
+  .steps-section {
+    margin-top: 0;
+    position: relative;
+  }
+
+  .step-text-box.step-2-box {
+    margin-bottom: 0;
+    padding: 15px;
+    margin-left: 0;
+  }
+
+  .step-text-box.step-4-box {
+    margin-bottom: 0;
+    padding: 15px;
+    margin-left: -40px;
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .step-text-box.step-6-box {
+    margin-bottom: 0;
+    padding: 15px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .step-text-box.step-1-box {
+    margin-top: 0;
+  }
+
+  .step-text-box.step-3-box {
+    margin: 20px 0 0 0;
+  }
+
+  .step-text-box.step-5-box {
+    margin: 0;
+  }
+
+  .step-img-box {
+    display: none;
+  }
+
+  .protect-img-1.tool-left-img {
+    position: absolute;
+    left: 10px;
+    top: -75px;
+    width: 21vw;
+  }
+
+  .protect-img-2.tool-right-img {
+    position: absolute;
+    right: 10px;
+    top: -77px;
+    width: 21vw;
+  }
+
+  .tool-img {
+    width: 100%;
+  }
+
+  .tool-img.tool-img-2 {
+    width: 50%;
+  }
+
+  .tool-img.tool-img-5 {
+    width: 100%;
+  }
+
+  .tool-img.tool-img-6 {
+    width: 80%;
+  }
+
+  .tool-img.tool-img-7 {
+    width: 100%;
+  }
+
+  .tool-img.tool-img-8 {
+    width: 80%;
+  }
+
+  .tool-img.tool-img-9 {
+    width: 100%;
+  }
+
+  .tool-boxes-row.align-items-center {
+    position: relative;
+    width: 100%;
+    margin: 20px auto 20px;
+  }
+
+  .tool-boxes-row-left {
+    border: 2.5px dashed #00ABDF;
+    border-radius: 30px;
+    padding: 20px;
+    position: relative;
+    width: 100%;
+    margin: 0;
+    flex-direction: column-reverse;
+  }
+
+  .tool-right-curl {
+    position: absolute;
+    right: 0;
+    width: 15vw;
+    top: 930px;
+  }
+
+  .tool-left-curl {
+    position: absolute;
+    left: 0;
+    width: 15vw;
+    top: 930px;
+  }
+
+  .tool-right-design {
+    display: none;
+  }
+
+  .tool-left-design {
+    display: none;
+  }
+
+  .benefit-img {
+    width: 30%;
+  }
+
+  /*---------- END IT MANAGEMENT PAGE ------------*/
+
+
+  /*---------- AI CONSULTING PAGE ------------*/
+  .ai-banner-desc {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 28px;
+    text-align: center;
+    color: #101F31;
+  }
+
+  .cloud-right-spiral.it-banner-right-spiral {
+    position: absolute;
+    right: 32px;
+    top: 601px;
+    width: 5vw;
+  }
+
+  .cloud-left-spiral.it-banner-left-spiral {
+    position: absolute;
+    left: 23px;
+    top: 728px;
+    width: 5vw;
+  }
+
+  .career-title.ai-service-box-title {
+    font-size: 1.3em;
+    margin: 0;
+  }
+
+  .service-second-textbox {
+    border: 2.5px dashed #00ABDF;
+    border-radius: 20px;
+    padding: 30px 20px;
+    text-align: center;
+    height: auto;
+  }
+
+  .service-second-row-2 {
+    flex-direction: column-reverse;
+  }
+
+  .service-second-textbox {
+    border: 2.5px dashed #00ABDF;
+    border-radius: 20px;
+    padding: 30px 20px;
+    text-align: center;
+    height: auto;
+  }
+
+  .why-desc-2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 28px;
+    text-align: center;
+    color: #101F31;
+    margin: 0;
+    margin-bottom: 0px;
+  }
+
+  .protect-img-1.why-left-img {
+    display: none;
+  }
+
+  .protect-img-2.why-right-img.aos-init.aos-animate {
+    display: none;
+  }
+
+  .why-boxes-row {
+    width: 100%;
+    margin: 0 auto;
+  }
+
+  .career-title.it-box-title {
+    font-size: 1.3em;
+    text-align: left;
+    margin-top: 0;
+  }
+
+  .why-second-box {
+    border: 2.5px dashed #00ABDF;
+    border-radius: 20px;
+    padding: 27px;
+    height: auto;
+    margin-bottom: 10px;
+  }
+
+  .why-second-box.why-last-box.mt-4 {
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 0px;
+    margin-top: 0px;
+    height: 550px;
+  }
+
+  .approach-desc {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 27px;
+    text-align: center;
+    color: #101F31;
+    margin: 20px 0;
+  }
+
+  .ai-approach-box-title {
+    display: block;
+  }
+
+  .career-title.ai-approach-box-title {
+    font-size: 1.2em;
+    display: block;
+    margin-top: 0;
+  }
+
+  .approach-textbox {
+    border: 2.5px dashed #00ABDF;
+    border-radius: 20px;
+    padding: 20px;
+    height: auto;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+
+  .approach-img {
+    width: 70vw;
+    display: none;
+  }
+
+  .approach-row-2 {
+    margin: 0;
+    width: 100%;
+  }
+
+  .approach-boxes-row {
+    width: 100%;
+    margin: 20px auto 70px;
+  }
+
+  .measure-left-spiral {
+    position: absolute;
+    left: 74px;
+    top: 454px;
+    width: 3vw;
+    display: none;
+  }
+
+  .why-curl {
+    display: none;
+  }
+
+  /*---------- END AI CONSULTING PAGE ------------*/
+
+
+
+  /*---------- IHEALTH DEVOPS PAGE ------------*/
+  .devops-title {
+    font-size: 1.5em;
+    text-align: center;
+    margin-top: 30px;
+  }
+
+  .devops-desc {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 27px;
+    text-align: center;
+    color: #101F31;
+    margin: 0;
+  }
+
+  .devops-row-1 {
+    position: relative;
+    flex-direction: column-reverse;
+    margin-top: 30px;
+  }
+
+  .devops-textbox-desc {
+    font-size: 13px;
+    line-height: 26px;
+    background-image: none;
+    padding: 19px;
+    height: 294px;
+    border: 2.5px dashed #00ABDF;
+    border-radius: 20px;
+  }
+
+  .devops-row-2 {
+    position: relative;
+    margin-top: 30px;
+  }
+
+  .devops-row-3 {
+    position: relative;
+    flex-direction: column-reverse;
+    margin-top: 30px;
+  }
+
+  .row-3-textbox {
+    margin-top: 70px;
+  }
+
+  .approach-textbox.dev-box {
+    height: auto;
+    margin-bottom: 10px;
+  }
+
+  .blue-left-plant {
+    display: none;
+  }
+
+  .blue-right-plant {
+    display: none;
+  }
+
+  .challenge-left-design {
+    position: absolute;
+    top: -87px;
+    width: 26vw;
+  }
+
+  .challenge-right-design {
+    position: absolute;
+    top: -19px;
+    width: 18vw;
+    right: 0;
+    top: -101px;
+    width: 26vw;
+
+  }
+
+  .benefit-img-box.challenge-image {
+    text-align: center;
+    border-right: none;
+  }
+
+  .benefit-img-box.challenge-img-box {
+    text-align: center;
+    border-right: none;
+    height: 100px;
+    display: flex;
+    align-items: center;
+  }
+
+  .challenge-num-img {
+    position: absolute;
+    left: 5px;
+    top: -33px;
+    width: 14.5vw;
+  }
+
+  .challenge-num-img-2 {
+    position: absolute;
+    left: 263px;
+    top: -18px;
+    width: 14.5vw;
+  }
+
+  .challenge-row-2 {
+    flex-direction: column-reverse;
+  }
+
+  .career-title.benefit-box-title.challenge-title {
+    font-size: 1.3em;
+    text-align: center;
+    margin: 0;
+  }
+
+  .protect-img-1.devops-ban-1 {
+    position: absolute;
+    left: 10px;
+    top: -45px;
+    width: 18vw;
+  }
+
+  .protect-img-2.devops-ban-2.aos-init.aos-animate {
+    position: absolute;
+    right: 10px;
+    top: -48px;
+    width: 18vw;
+  }
+
+  .cyber-plant.dev-plant {
+    display: none;
+  }
+
+  .dev-platform-desc {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 26px;
+    text-align: center;
+    color: #101F31;
+  }
+
+  .platform-boxes-row {
+    width: 100%;
+    margin: 0 auto;
+  }
+
+  .career-title.benefit-boxes-title.platform-box-title {
+    font-size: 1.0em;
+    text-align: center;
+    margin-top: 10px;
+  }
+
+  .platform-textbox {
+    padding: 10px;
+    border-right: none;
+  }
+
+  .platform-img-box {
+    padding: 10px;
+    text-align: right;
+  }
+
+  .platform-img {
+    width: 100%;
+  }
+
+  .program-chemical {
+    position: absolute;
+    top: -79px;
+    right: 26px;
+    width: 11vw;
+  }
+
+  .program-white-ball {
+    position: absolute;
+    top: -62px;
+    left: 29px;
+    width: 12vw;
+  }
+
+  .program-row {
+    flex-direction: column-reverse;
+    margin-bottom: 10px;
+  }
+
+  .program-num-img {
+    width: 100px;
+  }
+
+  .program-img-box {
+    text-align: center;
+    width: 100%;
+    margin-bottom: 15px;
+  }
+
+  .program-textbox {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 28px;
+    color: #101F31;
+    border: 2.5px dashed #69C3EB;
+    border-radius: 30px;
+    padding: 20px 33px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+  }
+
+  .program-box {
+    margin-bottom: 20px;
+  }
+
+  .program-right-plant {
+    width: 10vw;
+    position: absolute;
+    top: 724px;
+    right: 0;
+  }
+
+  .program-left-plant {
+    width: 10vw;
+    position: absolute;
+    top: 410px;
+  }
+
+  /*---------- END IHEALTH DEVOPS PAGE ------------*/
+
+
+}
+
+
+
+
+
+/*--------------------- TABLET CSS --------------------*/
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) {
+
+
+/*------- CAREER PAGE -----*/
+
+
+
+  }
